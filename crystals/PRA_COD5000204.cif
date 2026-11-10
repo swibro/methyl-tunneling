@@ -1,0 +1,79 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-21 13:10:50 +0300 (Thu, 21 Aug 2025) $
+#$Revision: 301844 $
+#$URL: file:///home/coder/svn-repositories/_RELOADED_COD/cod-reloaded/cif/5/00/02/5000204.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_5000204
+loop_
+_publ_author_name
+'Strieter, F. J.'
+'Templeton, D. H.'
+'Scheuerman, R. F.'
+'Sass, R. L.'
+_publ_section_title
+;
+ The crystal structure of propionic acid
+;
+_journal_issue                   12
+_journal_name_full               'Acta Crystallographica'
+_journal_page_first              1233
+_journal_page_last               1239
+_journal_paper_doi               10.1107/S0365110X62003278
+_journal_volume                  15
+_journal_year                    1962
+_chemical_formula_sum            'C3 H6 O2'
+_space_group_IT_number           14
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 91.25
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   4.04
+_cell_length_b                   9.06
+_cell_length_c                   11.0
+_cod_original_sg_symbol_H-M      'P 21/c'
+_cod_database_code               5000204
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,-1/2-y,-1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.15540 0.39880 -0.35500
+C2 C 0.27170 0.31620 -0.24400
+C3 C 0.41270 0.41380 -0.14290
+H1 H 0.57900 0.48100 -0.17200
+H2 H 0.25300 0.48600 -0.12000
+H3 H -0.10500 0.37900 -0.51200
+H4 H 0.07800 0.25600 -0.21000
+H5 H 0.44500 0.24700 -0.27100
+H6 H 0.49900 0.35600 -0.06300
+O1 O -0.02210 0.31960 -0.43210
+O2 O 0.22220 0.52910 -0.37420
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+O 0.68
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 1032

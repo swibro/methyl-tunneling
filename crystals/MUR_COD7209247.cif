@@ -1,0 +1,303 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-22 15:50:14 +0300 (Fri, 22 Aug 2025) $
+#$Revision: 301863 $
+#$URL: file:///home/coder/svn-repositories/_RELOADED_COD/cod-reloaded/cif/7/20/92/7209247.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7209247
+loop_
+_publ_author_name
+'Ch\;eci\'nska, Lilianna'
+'Morgenroth, Wolfgang'
+'Paulmann, Carsten'
+'Jayatilaka, Dylan'
+'Dittrich, Birger'
+_publ_section_title
+;
+ A comparison of electron density from Hirshfeld-atom refinement, X-ray
+ wavefunction refinement and multipole refinement on three urea
+ derivatives
+;
+_journal_issue                   11
+_journal_name_full               CrystEngComm
+_journal_page_first              2084
+_journal_paper_doi               10.1039/c2ce26964c
+_journal_volume                  15
+_journal_year                    2013
+_chemical_formula_moiety         'C2 H6 N2 O'
+_chemical_formula_sum            'C2 H6 N2 O'
+_chemical_formula_weight         74.09
+_chemical_name_common            N-methylurea
+_chemical_name_systematic
+;
+N-methylurea
+;
+_space_group_IT_number           19
+_symmetry_cell_setting           orthorhombic
+_symmetry_Int_Tables_number      19
+_symmetry_space_group_name_Hall  'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_audit_creation_method           XD2006
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            4
+_cell_length_a                   6.741(1)
+_cell_length_b                   6.743(1)
+_cell_length_c                   8.580(2)
+_cell_measurement_temperature    8(2)
+_cell_volume                     390.00(12)
+_computing_cell_refinement       'XDS (Kabsch, 1993; 2010)'
+_computing_data_collection       'MarCCD (Paulmann & Morgenroth, 2006)'
+_computing_data_reduction        'XDS (Kabsch, 1993; 2010)'
+_computing_structure_refinement  'Volkov et al, (2006)'
+_computing_structure_solution    'SHELXS-97 (Sheldrick, 2008)'
+_diffrn_ambient_temperature      8(2)
+_diffrn_detector_type            'MarCCD detector'
+_diffrn_measured_fraction_theta_full 0.989
+_diffrn_measured_fraction_theta_max 0.989
+_diffrn_measurement_device_type  'Huber diffractometer'
+_diffrn_measurement_method       '\f scan'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         synchrotron
+_diffrn_radiation_type           synchrotron
+_diffrn_radiation_wavelength     0.5166
+_diffrn_reflns_av_R_equivalents  0.0829
+_diffrn_reflns_av_sigmaI/netI    0.0394
+_diffrn_reflns_limit_h_max       13
+_diffrn_reflns_limit_h_min       -13
+_diffrn_reflns_limit_k_max       13
+_diffrn_reflns_limit_k_min       -13
+_diffrn_reflns_limit_l_max       17
+_diffrn_reflns_limit_l_min       -17
+_diffrn_reflns_number            18822
+_diffrn_reflns_theta_full        31.94
+_diffrn_reflns_theta_max         31.94
+_diffrn_reflns_theta_min         2.79
+_exptl_absorpt_coefficient_mu    0.062
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            colourless
+_exptl_crystal_density_diffrn    1.262
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       prism
+_exptl_crystal_F_000             160
+_exptl_crystal_size_max          0.4
+_exptl_crystal_size_mid          0.4
+_exptl_crystal_size_min          0.3
+_refine_diff_density_max         0.202
+_refine_diff_density_min         -0.373
+_refine_diff_density_rms         0.054
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.485
+_refine_ls_hydrogen_treatment    noref
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     130
+_refine_ls_number_reflns         1971
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_all          0.027
+_refine_ls_R_factor_gt           0.027
+_refine_ls_R_Fsqd_factor         0.051
+_refine_ls_shift/su_max          0
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+;
+calc w2 = 1/[s^2^(Fo^2^)]
+;
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         0.058
+_reflns_number_gt                1920
+_reflns_number_total             1985
+_reflns_threshold_expression     >2\s(I)
+_cod_data_source_file            c2ce26964c.txt
+_cod_data_source_block           murea
+_cod_database_code               7209247
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 +X,+Y,+Z
+2 1/2-X,-Y,1/2+Z
+3 -X,1/2+Y,1/2-Z
+4 1/2+X,1/2-Y,-Z
+loop_
+_atom_local_axes_atom_label
+_atom_local_axes_atom0
+_atom_local_axes_ax1
+_atom_local_axes_atom1
+_atom_local_axes_atom2
+_atom_local_axes_ax2
+O(1) C(1) Z O(1) N(1) Y
+N(1) C(1) X N(1) C(11) Y
+N(2) C(1) X N(2) H(2A) Y
+C(1) O(1) Z C(1) N(2) Y
+C(11) N(1) Z C(11) H(11A) Y
+H(1) N(1) Z H(1) C(1) Y
+H(2A) N(2) Z H(2A) C(1) Y
+H(2B) N(2) Z H(2B) C(1) Y
+H(11A) C(11) Z H(11A) H(11C) Y
+H(11B) C(11) Z H(11B) H(11A) Y
+H(11C) C(11) Z H(11C) H(11B) Y
+loop_
+_atom_rho_multipole_atom_label
+_atom_rho_multipole_coeff_Pv
+_atom_rho_multipole_coeff_P00
+_atom_rho_multipole_coeff_P11
+_atom_rho_multipole_coeff_P1-1
+_atom_rho_multipole_coeff_P10
+_atom_rho_multipole_coeff_P20
+_atom_rho_multipole_coeff_P21
+_atom_rho_multipole_coeff_P2-1
+_atom_rho_multipole_coeff_P22
+_atom_rho_multipole_coeff_P2-2
+_atom_rho_multipole_coeff_P30
+_atom_rho_multipole_coeff_P31
+_atom_rho_multipole_coeff_P3-1
+_atom_rho_multipole_coeff_P32
+_atom_rho_multipole_coeff_P3-2
+_atom_rho_multipole_coeff_P33
+_atom_rho_multipole_coeff_P3-3
+_atom_rho_multipole_coeff_P40
+_atom_rho_multipole_coeff_P41
+_atom_rho_multipole_coeff_P4-1
+_atom_rho_multipole_coeff_P42
+_atom_rho_multipole_coeff_P4-2
+_atom_rho_multipole_coeff_P43
+_atom_rho_multipole_coeff_P4-3
+_atom_rho_multipole_coeff_P44
+_atom_rho_multipole_coeff_P4-4
+_atom_rho_multipole_kappa
+_atom_rho_multipole_kappa_prime0
+_atom_rho_multipole_kappa_prime1
+_atom_rho_multipole_kappa_prime2
+_atom_rho_multipole_kappa_prime3
+_atom_rho_multipole_kappa_prime4
+_atom_rho_multipole_radial_slater_n0
+_atom_rho_multipole_radial_slater_zeta0
+_atom_rho_multipole_radial_slater_n1
+_atom_rho_multipole_radial_slater_zeta1
+_atom_rho_multipole_radial_slater_n2
+_atom_rho_multipole_radial_slater_zeta2
+_atom_rho_multipole_radial_slater_n3
+_atom_rho_multipole_radial_slater_zeta3
+_atom_rho_multipole_radial_slater_n4
+_atom_rho_multipole_radial_slater_zeta4
+O(1) 6.29(5) 0 0.002(11) 0.014(11) -0.035(14) 0.014(14) -0.025(11) 0.003(12)
+-0.057(13) 0.002(12) 0.061(11) -0.009(10) 0.020(10) 0.011(12) -0.013(11)
+-0.002(10) -0.008(10) 0.059(14) -0.013(12) -0.007(12) -0.011(13) -0.014(12)
+-0.003(12) -0.001(12) -0.000(12) -0.008(11) 0.983(4) 1 1 1 1 1 2 4.466 2 4.466 2
+4.466 3 4.466 4 4.466
+N(1) 5.07(7) 0 0.038(15) -0.010(16) 0 0.006(15) 0 0 -0.008(14) 0.033(14) 0
+0.010(14) -0.003(13) 0 0 0.157(14) 0.023(12) 0.026(18) 0 0 0.012(16) 0.010(17) 0
+0 0.010(15) -0.036(15) 0.994(5) 1 1 1 1 1 2 3.83936 2 3.83936 2 3.83936 3
+3.83936 4 3.83936
+N(2) 5.22(5) 0 -0.030(15) 0.006(15) 0 -0.008(15) 0 0 -0.021(14) -0.006(14) 0
+0.016(13) -0.011(13) 0 0 0.168(14) -0.012(12) 0.003(18) 0 0 -0.020(18) 0.026(17)
+0 0 -0.027(15) 0.011(15) 0.981326 1 1 1 1 1 2 3.83936 2 3.83936 2 3.83936 3
+3.83936 4 3.83936
+C(1) 3.75(9) 0 0 0 0.02(2) 0.168(19) 0 0 -0.204(17) 0 0.22(2) 0 0 0.22(2) 0 0 0
+-0.05(3) 0 0 -0.03(2) 0 0 0 -0.06(2) 0 1.001(11) 1 1 1 1 1 2 3.1762 2 3.1762 2
+3.1762 3 3.1762 4 3.1762
+C(11) 3.88(12) 0 0 0 -0.068(19) -0.041(19) 0 0 0 0 0.27(2) 0 0 0 0 0.035(16)
+-0.15(2) 0.04(2) 0 0 0 0 0.02(2) 0.09(2) 0 0 1.003(12) 1 1 1 1 1 2 3.1762 2
+3.1762 2 3.1762 3 3.1762 4 3.1762
+H(1) 0.97(4) 0 0 0 0.18(2) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.13 1.29
+1.29 1.29 1.29 1.29 0 2 1 2 2 2 3 2 4 2
+H(2A) 0.90(3) 0 0 0 0.17(2) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.13 1.29
+1.29 1.29 1.29 1.29 0 2 1 2 2 2 3 2 4 2
+H(2B) 0.84(3) 0 0 0 0.14(2) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.13 1.29
+1.29 1.29 1.29 1.29 0 2 1 2 2 2 3 2 4 2
+H(11A) 1.03(3) 0 0 0 0.118(16) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.13
+1.29 1.29 1.29 1.29 1.29 0 2 1 2 2 2 3 2 4 2
+H(11B) 1.027 0 0 0 0.1184 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.13 1.29
+1.29 1.29 1.29 1.29 0 2 1 2 2 2 3 2 4 2
+H(11C) 1.027 0 0 0 0.1184 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.13 1.29
+1.29 1.29 1.29 1.29 0 2 1 2 2 2 3 2 4 2
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O(1) 0.00715(14) 0.00728(14) 0.00434(13) -0.00006(11) 0.00115(10) -0.00033(10)
+N(1) 0.00914(13) 0.00680(13) 0.00628(13) -0.00274(10) 0.00234(10) -0.00049(10)
+N(2) 0.00956(13) 0.00633(13) 0.00688(14) -0.00219(10) 0.00179(10) -0.00148(11)
+C(1) 0.00538(13) 0.00521(13) 0.00436(13) -0.00043(8) 0.00036(9) -0.00018(8)
+C(11) 0.00929(14) 0.00719(13) 0.01078(15) -0.00261(10) 0.00109(10) -0.00139(11)
+H(1) 0.035901 0.025319 0.017289 -0.01012 0.013461 -0.006208
+H(2A) 0.03797 0.025952 0.016328 -0.009186 0.011855 -0.007061
+H(2B) 0.02122 0.016641 0.021698 -0.006858 0.003867 0.001489
+H(11A) 0.044942 0.024305 0.027873 -0.014207 0.008366 0.004699
+H(11B) 0.033305 0.028247 0.034088 -0.001479 -0.017293 -0.002042
+H(11C) 0.021598 0.0262 0.044802 0.001766 0.007929 -0.012386
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_U_iso_or_equiv
+O(1) 0.37477(6) 0.45323(6) 0.19580(5) 1 4 0.006
+N(1) 0.20093(5) 0.34040(6) 0.40523(5) 1 4 0.007
+N(2) 0.33986(5) 0.65183(6) 0.40862(5) 1 4 0.008
+C(1) 0.30810(5) 0.48052(5) 0.33079(4) 1 4 0.005
+C(11) 0.14256(6) 0.15878(6) 0.32753(5) 1 4 0.009
+H(1) 0.145272 0.378126 0.510382 1 4 0.026
+H(2A) 0.282358 0.663272 0.51693 1 4 0.027
+H(2B) 0.431948 0.752446 0.360145 1 4 0.020
+H(11A) 0.084332 0.06202 0.414586 1 4 0.032
+H(11B) 0.036694 0.183991 0.237348 1 4 0.032
+H(11C) 0.27057 0.087462 0.280738 1 4 0.031
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+C(1) N(1) C(11) 121.28(4) 1_555 1_555 1_555 yes
+C(1) N(1) H(1) 116.44 1_555 1_555 1_555 yes
+C(11) N(1) H(1) 121.55 1_555 1_555 1_555 yes
+C(1) N(2) H(2A) 117.34 1_555 1_555 1_555 yes
+C(1) N(2) H(2B) 117.93 1_555 1_555 1_555 yes
+H(2A) N(2) H(2B) 124.33 1_555 1_555 1_555 yes
+O(1) C(1) N(1) 121.68(4) 1_555 1_555 1_555 yes
+O(1) C(1) N(2) 121.62(4) 1_555 1_555 1_555 yes
+N(1) C(1) N(2) 116.70(4) 1_555 1_555 1_555 yes
+N(1) C(11) H(11A) 107.14 1_555 1_555 1_555 yes
+N(1) C(11) H(11B) 112.39 1_555 1_555 1_555 yes
+N(1) C(11) H(11C) 109.55 1_555 1_555 1_555 yes
+H(11A) C(11) H(11B) 111.06 1_555 1_555 1_555 yes
+H(11A) C(11) H(11C) 106.59 1_555 1_555 1_555 yes
+H(11B) C(11) H(11C) 109.89 1_555 1_555 1_555 yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+O(1) C(1) 1.2559(5) 1_555 1_555 yes
+N(1) C(1) 1.3500(5) 1_555 1_555 yes
+N(1) C(11) 1.4488(6) 1_555 1_555 yes
+N(1) H(1) 1.0097 1_555 1_555 yes
+N(2) C(1) 1.3513(5) 1_555 1_555 yes
+N(2) H(2A) 1.0098 1_555 1_555 yes
+N(2) H(2B) 1.009 1_555 1_555 yes
+C(11) H(11A) 1.0666 1_555 1_555 yes
+C(11) H(11B) 1.0663 1_555 1_555 yes
+C(11) H(11C) 1.0663 1_555 1_555 yes
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 11719

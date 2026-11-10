@@ -1,0 +1,246 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-19 01:52:38 +0300 (Tue, 19 Aug 2025) $
+#$Revision: 301791 $
+#$URL: file:///home/coder/svn-repositories/_RELOADED_COD/cod-reloaded/cif/2/00/64/2006420.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2006420
+loop_
+_publ_author_name
+'Ishioka, Tsutomu'
+'Murata, Asami'
+'Kitagawa, Yasuyuki'
+'Nakamura, Kazuo T.'
+_publ_contact_author
+;
+TSUTOMU ISHIOKA
+Department of Chemistry
+Faculty of Science
+Toyama University
+Gofuku, Toyama 930, Japan
+;
+_publ_section_title
+;
+ Zinc(II) Acetate Dihydrate
+;
+_journal_issue                   8
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              1029
+_journal_page_last               1031
+_journal_paper_doi               10.1107/S0108270197004484
+_journal_volume                  53
+_journal_year                    1997
+_chemical_formula_iupac          '[Zn (C2 H3 O2)2 (H2 O)2]'
+_chemical_formula_sum            'C4 H10 O6 Zn'
+_chemical_formula_weight         219.50
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_audit_creation_method           'from TEXRAY.INF file'
+_cell_angle_alpha                90
+_cell_angle_beta                 99.88(2)
+_cell_angle_gamma                90
+_cell_formula_units_Z            4.00
+_cell_length_a                   14.394(3)
+_cell_length_b                   5.330(2)
+_cell_length_c                   10.962(3)
+_cell_measurement_reflns_used    24
+_cell_measurement_temperature    292.0(10)
+_cell_measurement_theta_max      79.92
+_cell_measurement_theta_min      76.07
+_cell_volume                     828.5(4)
+_computing_cell_refinement       'MSC/AFC Diffractometer Control Software'
+_computing_data_collection
+;
+MSC/AFC Diffractometer Control Software (Molecular Structure Corporation,
+1992a)
+;
+_computing_data_reduction
+'TEXSAN (Molecular Structure Corporation, 1992b)'
+_computing_publication_material  TEXSAN
+_computing_structure_refinement  TEXSAN
+_computing_structure_solution    'DIRDIF92 (PATTY) (Beurskens et al., 1992)'
+_diffrn_ambient_temperature      19.0
+_diffrn_measurement_device       'Rigaku AFC5R'
+_diffrn_measurement_method       '\w/2\q scans'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'Rigaku rotating anode'
+_diffrn_radiation_type           CuK\a
+_diffrn_radiation_wavelength     1.5418
+_diffrn_reflns_av_R_equivalents  0.0621
+_diffrn_reflns_limit_h_max       16
+_diffrn_reflns_limit_h_min       0
+_diffrn_reflns_limit_k_max       0
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_l_max       3
+_diffrn_reflns_limit_l_min       -12
+_diffrn_reflns_number            764
+_diffrn_reflns_theta_max         62.84
+_diffrn_standards_decay_%        -0.54
+_diffrn_standards_interval_count 150
+_diffrn_standards_number         3
+_exptl_absorpt_coefficient_mu    4.0968
+_exptl_absorpt_correction_T_max  0.359
+_exptl_absorpt_correction_T_min  0.295
+_exptl_absorpt_correction_type
+'empirical via \y scan (North, Phillips & Mathews, 1968)'
+_exptl_crystal_colour            colorless
+_exptl_crystal_density_diffrn    1.760
+_exptl_crystal_description       plate
+_exptl_crystal_F_000             448.00
+_exptl_crystal_size_max          0.75
+_exptl_crystal_size_mid          0.30
+_exptl_crystal_size_min          0.25
+_refine_diff_density_max         0.67
+_refine_diff_density_min         -0.53
+_refine_ls_extinction_coef       none
+_refine_ls_extinction_method
+'Zachariasen type 2 Gaussian isotropic (Zachariasen, 1968)'
+_refine_ls_goodness_of_fit_obs   2.280
+_refine_ls_hydrogen_treatment    'H-atom parameters not refined'
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     51
+_refine_ls_number_reflns         659
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_obs          .0600
+_refine_ls_shift/esd_max         0.0240
+_refine_ls_structure_factor_coef F
+_refine_ls_weighting_details     'w = 1/\s^2^(F~o~)'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_obs         .1180
+_reflns_number_total             738
+_cod_data_source_file            oa1020.cif
+_cod_data_source_block           zinc
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_atom_site_thermal_displace_type' tag value 'Uij' was replaced with
+'Uani' value 11 times.
+
+Automatic conversion script
+Id: cif_fix_values 1646 2011-03-28 12:23:43Z adriana 
+
+The following automatic conversions were performed:
+
+'_refine_ls_weighting_scheme' value '1/\s^2^(F~o~)' was changed to
+'calc'. New tag '_refine_ls_weighting_details' was created. The value
+of the new tag was set to 'w = 1/\s^2^(F~o~)'.
+
+Automatic conversion script
+Id: cif_fix_values 3143 2015-03-26 13:38:13Z robertas 
+;
+_cod_original_cell_volume        828.4(4)
+_cod_original_sg_symbol_H-M      'C 2/c'
+_cod_original_formula_sum        'C4 H10 O6 Zn1'
+_cod_database_code               2006420
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn .0620(10) .0309(10) .0509(10) .0020 .0110(6) .0032
+O1 .079(3) .031(3) .043(2) -.015(2) .015(2) -.0040(10)
+O2 .091(3) .034(2) .043(2) .015(2) .022(2) .006(2)
+O3 .072(2) .036(3) .050(2) -.014(2) .014(2) .001(2)
+C1 .054(3) .033(3) .045(3) .008(2) .013(2) .004(2)
+C2 .065(3) .042(3) .058(3) -.014(3) .018(3) -.001(3)
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+_atom_site_calc_flag
+_atom_site_calc_attached_atom
+Zn 0 .13040(10) .2500 .0478(5) Uani ? ?
+O1 -.0828(4) -.1128(7) .1453(4) .0510(10) Uani ? ?
+O2 .1043(3) .4319(9) .2606(3) .0550(10) Uani ? ?
+O3 .0695(3) .2158(9) .0933(3) .0520(10) Uani ? ?
+C1 .1147(4) .3940(10) .1503(6) .043(2) Uani ? ?
+C2 .1733(5) .5700(10) .0880(6) .054(2) Uani ? ?
+H1 -.1291 -.2048 .1790 .0596 Uani ? ?
+H2 -.0762 -.1383 .0613 .0596 Uani ? ?
+H3 .2358 .5780 .1327 .0657 Uani ? ?
+H4 .1739 .5184 .0058 .0657 Uani ? ?
+H5 .1466 .7372 .0860 .0657 Uani ? ?
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C 0.018 0.009 'International Tables Vol C'
+H 0.000 0.000 'International Tables Vol C'
+O 0.049 0.032 'International Tables Vol C'
+Zn -1.549 0.678 'International Tables Vol C'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_3
+_geom_angle
+_geom_angle_publ_flag
+O1 Zn O1 3_555 98.6(3) yes
+O1 Zn O2 ? 147.9(2) yes
+O1 Zn O2 3_555 96.3(2) yes
+O1 Zn O3 ? 89.5(2) yes
+O1 Zn O3 3_555 106.3(2) yes
+O1 Zn O2 ? 96.3(2) n
+O1 Zn O2 ? 147.9(2) n
+O1 Zn O3 ? 106.3(2) n
+O1 Zn O3 ? 89.5(2) n
+O2 Zn O2 3_555 85.5(2) yes
+O2 Zn O3 ? 59.00(10) n
+O2 Zn O3 ? 102.0(2) n
+O2 Zn O3 3_555 102.0(2) yes
+O2 Zn O3 ? 59.00(10) yes
+O3 Zn O3 3_555 155.9(3) yes
+Zn O1 H1 ? 120.1599 no
+Zn O1 H2 ? 120.2294 no
+H1 O1 H2 ? 119.6105 no
+Zn O2 C1 ? 91.4(4) yes
+Zn O3 C1 ? 92.0(3) yes
+O2 C1 O3 ? 117.5(5) yes
+O2 C1 C2 ? 120.3(6) yes
+O3 C1 C2 ? 122.0(5) yes
+C1 C2 H3 ? 110.4252 no
+C1 C2 H4 ? 110.4489 no
+C1 C2 H5 ? 109.3592 no
+H3 C2 H4 ? 110.1612 no
+H3 C2 H5 ? 107.9735 no
+H4 C2 H5 ? 108.4093 no
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+Zn O1 ? ? 1.987(4) yes
+Zn O2 ? ? 2.189(5) yes
+Zn O3 ? ? 2.179(4) yes
+O1 H1 ? ? .9524 no
+O1 H2 ? ? .9514 no
+O2 C1 ? ? 1.260(7) yes
+O3 C1 ? ? 1.256(7) yes
+C1 C2 ? ? 1.503(8) yes
+C2 H3 ? ? .9486 no
+C2 H4 ? ? .9433 no
+C2 H5 ? ? .9692 no
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 168307629

@@ -1,0 +1,1755 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-19 13:01:59 +0300 (Tue, 19 Aug 2025) $
+#$Revision: 301802 $
+#$URL: file:///home/coder/svn-repositories/_RELOADED_COD/cod-reloaded/cif/2/10/83/2108330.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2108330
+loop_
+_publ_author_name
+'Herich, Peter'
+'Bu\<cinsk\'y, Luk\'a\<s'
+'Breza, Martin'
+'Gall, Mari\'an'
+'Fronc, Marek'
+'Pet\<ri\<cek, V\'aclav'
+'Ko\<z\'i\<sek, Jozef'
+_publ_section_title
+;
+ Electronic structure of two isostructural `paddle-wheel' complexes: a
+ comparative study
+;
+_journal_coeditor_code           PX5002SUP1
+_journal_issue                   6
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first
+;
+;
+_journal_paper_doi               10.1107/S2052520618013707
+_journal_volume                  74
+_journal_year                    2018
+_chemical_compound_source        'from Peter Herich'
+_chemical_formula_moiety         'C8 H16 Cu2 O10'
+_chemical_formula_sum            'C8 H16 Cu2 O10'
+_chemical_formula_weight         399.31
+_chemical_name_systematic
+;
+ tetrakis(mu2-acetato)-diaqua-di-copper(II)
+;
+_space_group_crystal_system      monoclinic
+_space_group_IT_number           15
+_space_group_name_Hall           '-C 2yc'
+_space_group_name_H-M_alt        'C 1 2/c 1'
+_symmetry_space_group_name_Hall  '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 119.3086(6)
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   13.08438(10)
+_cell_length_b                   8.50319(10)
+_cell_length_c                   14.05022(10)
+_cell_measurement_reflns_used    237626
+_cell_measurement_temperature    100(2)
+_cell_measurement_theta_max      66.7220
+_cell_measurement_theta_min      2.9820
+_cell_volume                     1363.12(2)
+_computing_cell_refinement
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.38.41 (release 02-02-2016 CrysAlis171 .NET)
+(compiled Feb  2 2016)
+;
+_computing_data_collection
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.38.41 (release 02-02-2016 CrysAlis171 .NET)
+(compiled Feb  2 2016)
+;
+_computing_data_reduction
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.38.41 (release 02-02-2016 CrysAlis171 .NET)
+(compiled Feb  2 2016)
+;
+_computing_molecular_graphics    'Volkov et al, (2006)'
+_computing_publication_material  'Volkov et al, (2006)'
+_computing_structure_refinement  'Volkov et al, (2006)'
+_computing_structure_solution    'SHELXS (Sheldrick, 2008)'
+_diffrn_ambient_temperature      100.0(1)
+_diffrn_detector_area_resol_mean 10.4340
+_diffrn_measured_fraction_theta_full 0.8879
+_diffrn_measured_fraction_theta_max 0.9936
+_diffrn_measurement_details
+;
+#__ type_ start__ end____ width___ exp.time_
+  1 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000   60.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+  2 omega  -50.00    7.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+  3 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  270.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+  4 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+  5 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+  6 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  120.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+  7 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  180.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+  8 omega    3.00   65.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   77.0000   90.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+  9 omega   41.00  103.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000   30.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 10 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  270.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 11 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 12 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 13 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 14 omega   -7.00   50.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -45.0000  150.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 15 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  300.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 16 omega    3.00   60.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 17 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000    0.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 18 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  330.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 19 omega -116.00  -55.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -74.0000  284.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 20 omega -117.00  -61.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  115.0000  221.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 21 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000  210.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 22 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000  120.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 23 omega -115.00  -59.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -45.0000  270.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 24 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000  180.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 25 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000  240.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 26 omega -115.00  -58.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -52.0000  223.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 27 omega -115.00  -55.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -73.0000  117.0000 60
+
+#__ type_ start__ end____ width___ exp.time_
+ 28 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000  270.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 29 omega -116.00  -55.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -74.0000   91.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 30 omega -116.00  -59.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -39.0000  341.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 31 omega -115.00  -59.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -45.0000   30.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 32 omega -114.00  -55.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -67.0000  323.0000 59
+
+#__ type_ start__ end____ width___ exp.time_
+ 33 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000  330.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 34 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000    0.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 35 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000   90.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 36 omega -113.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -65.0000  345.0000 59
+
+#__ type_ start__ end____ width___ exp.time_
+ 37 omega -115.00  -58.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -51.0000  157.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 38 omega -115.00  -58.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -51.0000  272.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 39 omega -126.00  -64.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000   77.0000   90.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 40 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000   30.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 41 omega -115.00  -59.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -45.0000  120.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 42 omega -115.00  -59.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -45.0000    0.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 43 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 44 omega -115.00  -59.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -45.0000  180.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 45 omega -114.00  -58.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  106.0000   95.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 46 omega -114.00  -55.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -67.0000   93.0000 59
+
+#__ type_ start__ end____ width___ exp.time_
+ 47 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000  300.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 48 omega -114.00  -55.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -63.0000  285.0000 59
+
+#__ type_ start__ end____ width___ exp.time_
+ 49 omega -114.00  -55.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -67.0000  121.0000 59
+
+#__ type_ start__ end____ width___ exp.time_
+ 50 omega -116.00  -54.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -77.0000   60.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 51 omega -115.00  -59.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -90.0000  -45.0000  330.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 52 omega   70.00  132.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000  210.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 53 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  240.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 54 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  120.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 55 omega   70.00  132.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000  300.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 56 omega   12.00   74.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000  180.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 57 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000   60.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 58 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000   30.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 59 omega   69.00  135.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -86.0000  133.0000 66
+
+#__ type_ start__ end____ width___ exp.time_
+ 60 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  330.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 61 omega   12.00   74.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000   90.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 62 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  150.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 63 omega  117.00  178.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  330.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 64 omega   70.00  132.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000  240.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 65 omega   12.00   74.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000  120.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 66 omega  117.00  178.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000   90.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 67 omega  119.00  178.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   -6.0000  337.0000 59
+
+#__ type_ start__ end____ width___ exp.time_
+ 68 omega   70.00  132.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000   60.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 69 omega   11.00   69.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   12.0000  183.0000 58
+
+#__ type_ start__ end____ width___ exp.time_
+ 70 omega  118.00  175.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000  240.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 71 omega   65.00  122.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000  210.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 72 omega   65.00  122.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000  120.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 73 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  300.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 74 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000   90.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 75 omega  117.00  178.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  270.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 76 omega   71.00  127.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -45.0000  270.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 77 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  270.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 78 omega   71.00  127.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -45.0000   90.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 79 omega   65.00  175.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000  180.0000 110
+
+#__ type_ start__ end____ width___ exp.time_
+ 80 omega   65.00  175.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000   90.0000 110
+
+#__ type_ start__ end____ width___ exp.time_
+ 81 omega   60.00  122.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500    2.0000  229.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 82 omega   71.00  127.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -45.0000    0.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+ 83 omega   65.00  122.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 84 omega   18.00  127.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -45.0000  330.0000 109
+
+#__ type_ start__ end____ width___ exp.time_
+ 85 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  210.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 86 omega   65.00  122.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000   60.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 87 omega   12.00   74.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000  210.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 88 omega   65.00  122.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000  150.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 89 omega   62.00  123.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   -6.0000  337.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 90 omega  118.00  175.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000  300.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 91 omega   11.00   91.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -17.0000  356.0000 80
+
+#__ type_ start__ end____ width___ exp.time_
+ 92 omega   12.00   74.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000   30.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+ 93 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000    0.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 94 omega   12.00  132.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -77.0000    0.0000 120
+
+#__ type_ start__ end____ width___ exp.time_
+ 95 omega  117.00  178.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  120.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 96 omega   64.00  123.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -16.0000  121.0000 59
+
+#__ type_ start__ end____ width___ exp.time_
+ 97 omega  118.00  175.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   45.0000   60.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+ 98 omega   60.00  121.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  180.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+ 99 omega  117.00  178.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000    0.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+100 omega  117.00  178.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500   77.0000  180.0000 61
+
+#__ type_ start__ end____ width___ exp.time_
+101 omega   71.00  127.00   1.0000   80.0000
+omega____ theta____ kappa____ phi______ frames
+    -       96.2500  -45.0000  180.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+102 omega   -8.00   84.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000  -59.0000   35.0000 92
+
+#__ type_ start__ end____ width___ exp.time_
+103 omega   34.00  122.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000   57.0000   45.0000 88
+
+#__ type_ start__ end____ width___ exp.time_
+104 omega -120.00  -50.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000  -59.0000   30.0000 70
+
+#__ type_ start__ end____ width___ exp.time_
+105 omega  -83.00   10.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000   57.0000   40.0000 93
+
+#__ type_ start__ end____ width___ exp.time_
+106 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000   60.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+107 omega  -50.00    7.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+108 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  270.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+109 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+110 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+111 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  120.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+112 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  180.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+113 omega    3.00   65.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   77.0000   90.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+114 omega   41.00  103.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000   30.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+115 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  270.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+116 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+117 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+118 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+119 omega   -7.00   50.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -45.0000  150.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+120 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  300.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+121 omega    3.00   60.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+122 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000    0.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+123 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  330.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+124 omega   -8.00   84.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000  -59.0000  135.0000 92
+
+#__ type_ start__ end____ width___ exp.time_
+125 omega   34.00  122.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000   57.0000  145.0000 88
+
+#__ type_ start__ end____ width___ exp.time_
+126 omega -120.00  -50.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000  -59.0000  130.0000 70
+
+#__ type_ start__ end____ width___ exp.time_
+127 omega  -83.00   10.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000   57.0000  140.0000 93
+
+#__ type_ start__ end____ width___ exp.time_
+128 omega   -8.00   84.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000  -59.0000  235.0000 92
+
+#__ type_ start__ end____ width___ exp.time_
+129 omega   34.00  122.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000   57.0000  245.0000 88
+
+#__ type_ start__ end____ width___ exp.time_
+130 omega -120.00  -50.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000  -59.0000  230.0000 70
+
+#__ type_ start__ end____ width___ exp.time_
+131 omega  -83.00   10.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000   57.0000  240.0000 93
+
+#__ type_ start__ end____ width___ exp.time_
+132 omega   -8.00   84.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000  -59.0000  335.0000 92
+
+#__ type_ start__ end____ width___ exp.time_
+133 omega   34.00  122.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000   57.0000  345.0000 88
+
+#__ type_ start__ end____ width___ exp.time_
+134 omega -120.00  -50.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000  -59.0000  330.0000 70
+
+#__ type_ start__ end____ width___ exp.time_
+135 omega  -83.00   10.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000   57.0000  340.0000 93
+
+#__ type_ start__ end____ width___ exp.time_
+136 omega   -8.00   84.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000  -59.0000  247.0000 92
+
+#__ type_ start__ end____ width___ exp.time_
+137 omega   34.00  122.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000   57.0000  257.0000 88
+
+#__ type_ start__ end____ width___ exp.time_
+138 omega -120.00  -50.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000  -59.0000  242.0000 70
+
+#__ type_ start__ end____ width___ exp.time_
+139 omega  -83.00   10.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000   57.0000  252.0000 93
+
+#__ type_ start__ end____ width___ exp.time_
+140 omega   -8.00   84.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000  -59.0000  347.0000 92
+
+#__ type_ start__ end____ width___ exp.time_
+141 omega   34.00  122.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -       60.0000   57.0000  357.0000 88
+
+#__ type_ start__ end____ width___ exp.time_
+142 omega -120.00  -50.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000  -59.0000  342.0000 70
+
+#__ type_ start__ end____ width___ exp.time_
+143 omega  -83.00   10.00   1.0000   60.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -60.0000   57.0000  352.0000 93
+
+#__ type_ start__ end____ width___ exp.time_
+144 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000   60.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+145 omega  -50.00    7.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+146 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  270.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+147 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+148 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+149 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  120.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+150 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  180.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+151 omega    3.00   65.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   77.0000   90.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+152 omega   41.00  103.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000   30.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+153 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  270.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+154 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+155 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+156 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+157 omega   -7.00   50.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -45.0000  150.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+158 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  300.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+159 omega    3.00   60.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+160 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000    0.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+161 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  330.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+162 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000   60.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+163 omega  -50.00    7.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+164 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  270.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+165 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+166 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+167 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  120.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+168 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  180.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+169 omega    3.00   65.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   77.0000   90.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+170 omega   41.00  103.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000   30.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+171 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  270.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+172 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+173 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+174 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+175 omega   -7.00   50.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -45.0000  150.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+176 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  300.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+177 omega    3.00   60.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+178 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000    0.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+179 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  330.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+180 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000   60.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+181 omega  -50.00    7.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+182 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  270.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+183 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+184 omega   -7.00   55.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -77.0000  150.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+185 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  120.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+186 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  180.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+187 omega    3.00   57.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   77.0000   90.0000 54
+
+#__ type_ start__ end____ width___ exp.time_
+188 omega   41.00  103.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000   30.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+189 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000  270.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+190 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+191 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+192 omega  -97.00  -40.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000   60.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+193 omega   -7.00   50.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945  -45.0000  150.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+194 omega  -45.00   17.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -77.0000  300.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+195 omega    3.00   60.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   45.0000   30.0000 57
+
+#__ type_ start__ end____ width___ exp.time_
+196 omega  -44.00   12.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945  -45.0000    0.0000 56
+
+#__ type_ start__ end____ width___ exp.time_
+197 omega  -17.00   45.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -       18.6945   77.0000  330.0000 62
+
+#__ type_ start__ end____ width___ exp.time_
+198 omega    3.00   65.00   1.0000   15.0000
+omega____ theta____ kappa____ phi______ frames
+    -      -18.6945   77.0000   90.0000 62
+
+;
+_diffrn_measurement_device_type  'Gemini, Ruby'
+_diffrn_measurement_method       '\w scans'
+_diffrn_orient_matrix_UB_11      0.0097123000
+_diffrn_orient_matrix_UB_12      -0.0819325000
+_diffrn_orient_matrix_UB_13      0.0096872000
+_diffrn_orient_matrix_UB_21      0.0584054000
+_diffrn_orient_matrix_UB_22      0.0096198000
+_diffrn_orient_matrix_UB_23      0.0103496000
+_diffrn_orient_matrix_UB_31      0.0189320000
+_diffrn_orient_matrix_UB_32      0.0123694000
+_diffrn_orient_matrix_UB_33      0.0561330000
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'Enhance (Mo) X-ray Source'
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.7107
+_diffrn_reflns_av_R_equivalents  0.0255
+_diffrn_reflns_av_sigmaI/netI    0.0261
+_diffrn_reflns_limit_h_max       33
+_diffrn_reflns_limit_h_min       -33
+_diffrn_reflns_limit_k_max       21
+_diffrn_reflns_limit_k_min       -21
+_diffrn_reflns_limit_l_max       35
+_diffrn_reflns_limit_l_min       -35
+_diffrn_reflns_number            404013
+_diffrn_reflns_theta_full        26.3154
+_diffrn_reflns_theta_max         66.9434
+_diffrn_reflns_theta_min         3.3257
+_exptl_absorpt_coefficient_mu    3.165
+_exptl_absorpt_correction_T_max  0.721
+_exptl_absorpt_correction_T_min  0.392
+_exptl_absorpt_correction_type   analytical
+_exptl_absorpt_process_details
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.38.41 (release 02-02-2016 CrysAlis171 .NET)
+(compiled Feb  2 2016)
+Analytical numeric absorption correction using a multifaceted crystal
+            model based on expressions derived by R.C. Clark & J.S. Reid.
+(Clark, R. C. & Reid, J. S. (1995). Acta Cryst. A51, 887-897)
+;
+_exptl_crystal_colour            blue
+_exptl_crystal_density_diffrn    1.946
+_exptl_crystal_description       prism
+_exptl_crystal_F_000             808.000
+_exptl_crystal_size_max          0.4296
+_exptl_crystal_size_mid          0.1736
+_exptl_crystal_size_min          0.1280
+_refine_diff_density_max         0.987
+_refine_diff_density_min         -0.743
+_refine_diff_density_rms         0.132
+_refine_ls_extinction_coef
+;ext coef(1) =     0.71532E+00    0.13796E-01
+ ext coef(2) =     0.11446E+01    0.23982E-01
+ ext coef(3) =     0.31709E+00    0.49494E-02
+ ext coef(4) =    -0.92301E-02    0.11738E-01
+ ext coef(5) =    -0.40566E+00    0.76143E-02
+ ext coef(6) =     0.57603E-02    0.86848E-02
+;
+_refine_ls_extinction_expression
+;
+        Becker, P.J. & Coppens, P. (1974) Acta Cryst., A30, 129-153.
+;
+_refine_ls_extinction_method     'Becker-Coppens type 2 anisotropic'
+_refine_ls_goodness_of_fit_ref   1.199
+_refine_ls_hydrogen_treatment    mixed
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     282
+_refine_ls_number_reflns         339265
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_all          0.025
+_refine_ls_R_factor_gt           0.019
+_refine_ls_shift/su_max          0
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+;    calc w2 = q/[s^2^(Fo^2^) + (0.02 P)^2^ + 0.09 P + 0.00 + 0.00 sin(th)]
+     where P = (0.3333 Fo^2^ + 0.6667 Fc^2^)
+           q = 1.0
+;
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_ref         0.046
+_reflns_number_gt                11774
+_reflns_number_total             12312
+_reflns_threshold_expression     'I > 3\s(I)'
+_cod_data_source_file            px5002sup1.cif
+_cod_data_source_block           I
+_cod_original_cell_volume        1363.11(2)
+_cod_database_code               2108330
+_reflns_odcompleteness_completeness 88.79
+_reflns_odcompleteness_theta     26.32
+_reflns_odcompleteness_iscentric 1
+_chemical_oxdiff_formula         'C4 H8 O5 Cu'
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 +X,+Y,+Z
+2 -X,+Y,1/2-Z
+3 -X,-Y,-Z
+4 +X,-Y,1/2+Z
+5 1/2+X,1/2+Y,+Z
+6 1/2-X,1/2-Y,-Z
+7 1/2-X,1/2+Y,1/2-Z
+8 1/2+X,1/2-Y,1/2+Z
+loop_
+_atom_local_axes_atom_label
+_atom_local_axes_atom0
+_atom_local_axes_ax1
+_atom_local_axes_atom1
+_atom_local_axes_atom2
+_atom_local_axes_ax2
+CU2+(1) O(5) Z CU2+(1) O(1) Y
+O(1) CU2+(1) X O(1) C(1) Y
+O(2) CU2+(1) X O(2) C(1) Y
+O(3) CU2+(1) X O(3) C(3) Y
+O(4) CU2+(1) X O(4) C(3) Y
+O(5) H(5A) X O(5) H(5B) Y
+C(1) O(1) X C(1) C(2) Y
+C(2) H(2C) X C(2) H(2A) Y
+C(3) O(3) X C(3) C(4) Y
+C(4) H(4B) X C(4) H(4A) Y
+H(5A) O(5) Z H(5A) CU2+(1) Y
+H(5B) O(5) Z H(5B) CU2+(1) Y
+H(2C) C(2) Z H(2C) H(2B) Y
+H(2B) C(2) Z H(2B) H(2A) Y
+H(2A) C(2) Z H(2A) H(2B) Y
+H(4C) C(4) Z H(4C) H(4B) Y
+H(4B) C(4) Z H(4B) H(4A) Y
+H(4A) C(4) Z H(4A) H(4B) Y
+loop_
+_atom_rho_multipole_atom_label
+_atom_rho_multipole_coeff_Pv
+_atom_rho_multipole_coeff_P00
+_atom_rho_multipole_coeff_P11
+_atom_rho_multipole_coeff_P1-1
+_atom_rho_multipole_coeff_P10
+_atom_rho_multipole_coeff_P20
+_atom_rho_multipole_coeff_P21
+_atom_rho_multipole_coeff_P2-1
+_atom_rho_multipole_coeff_P22
+_atom_rho_multipole_coeff_P2-2
+_atom_rho_multipole_coeff_P30
+_atom_rho_multipole_coeff_P31
+_atom_rho_multipole_coeff_P3-1
+_atom_rho_multipole_coeff_P32
+_atom_rho_multipole_coeff_P3-2
+_atom_rho_multipole_coeff_P33
+_atom_rho_multipole_coeff_P3-3
+_atom_rho_multipole_coeff_P40
+_atom_rho_multipole_coeff_P41
+_atom_rho_multipole_coeff_P4-1
+_atom_rho_multipole_coeff_P42
+_atom_rho_multipole_coeff_P4-2
+_atom_rho_multipole_coeff_P43
+_atom_rho_multipole_coeff_P4-3
+_atom_rho_multipole_coeff_P44
+_atom_rho_multipole_coeff_P4-4
+_atom_rho_multipole_kappa
+_atom_rho_multipole_kappa_prime0
+_atom_rho_multipole_kappa_prime1
+_atom_rho_multipole_kappa_prime2
+_atom_rho_multipole_kappa_prime3
+_atom_rho_multipole_kappa_prime4
+Cu2+(1) 9.358(7) 0 0.0066(17) -0.0188(17) -0.0205(16) 0.183(2) -0.062(2)
+-0.058(2) -0.048(2) -0.022(2) 0.0199(15) -0.0020(15) -0.0134(14) 0.0075(15)
+-0.0023(15) -0.0075(15) 0.0046(15) -0.033(2) -0.030(2) 0.014(2) -0.039(2)
+-0.011(2) 0.013(2) -0.008(2) -0.198(2) 0.010(2) 0.9940(6) 1 1 1 1 1
+O(1) 6.382(5) 0 0.038(2) -0.049(2) 0.009(2) -0.044(2) 0.002(2) 0.005(2) 0.026(2)
+0.033(2) 0.003(2) -0.001(2) 0.012(2) 0.002(2) 0.006(2) 0.050(2) 0.018(2) 0 0 0 0
+0 0 0 0 0 0.9817(4) 1 1 1 1 1
+O(2) 6.386(5) 0 -0.026(2) -0.037(2) 0.015(2) -0.045(2) 0.014(2) 0.012(2)
+0.021(2) -0.047(2) -0.003(2) 0.008(2) 0.006(2) -0.010(2) -0.002(2) -0.056(2)
+0.005(2) 0 0 0 0 0 0 0 0 0 0.9817(4) 1 1 1 1 1
+O(3) 6.415(5) 0 0.031(2) -0.047(2) -0.007(2) -0.050(2) -0.004(2) 0.010(2)
+0.010(2) 0.046(2) -0.018(2) -0.005(2) 0.000(2) 0.002(2) -0.006(2) 0.084(2)
+0.001(2) 0 0 0 0 0 0 0 0 0 0.9817(4) 1 1 1 1 1
+O(4) 6.500(5) 0 -0.049(2) -0.046(2) 0.006(2) -0.039(2) 0.006(2) -0.014(2)
+0.043(2) -0.030(2) 0.017(2) 0.005(2) -0.002(2) -0.009(2) -0.004(2) -0.050(2)
+-0.015(2) 0 0 0 0 0 0 0 0 0 0.9817(4) 1 1 1 1 1
+O(5) 6.499(5) 0 -0.014(2) -0.025(2) -0.100(2) 0.050(2) -0.003(2) -0.003(2)
+-0.012(2) -0.002(2) -0.051(2) -0.003(2) 0.009(2) -0.005(2) -0.007(2) 0.104(2)
+-0.043(2) 0 0 0 0 0 0 0 0 0 0.9817(4) 1 1 1 1 1
+C(1) 3.951(8) 0 0.019(3) 0.018(3) 0.027(2) -0.277(3) 0.003(2) -0.002(2) 0.016(3)
+-0.013(3) 0.047(3) 0.005(3) 0.007(3) 0.015(3) -0.003(3) 0.319(4) -0.071(4) 0 0 0
+0 0 0 0 0 0 1.0150(9) 1 1 1 1 1
+C(2) 4.091(14) 0 -0.001(3) -0.011(3) 0.021(3) -0.009(3) -0.027(3) -0.046(3)
+0.006(3) -0.002(3) -0.017(3) -0.142(4) -0.211(4) 0.008(3) -0.046(3) 0.068(4)
+-0.012(3) 0 0 0 0 0 0 0 0 0 1.0150(9) 1 1 1 1 1
+C(3) 3.849(8) 0 -0.047(3) 0.012(3) -0.008(2) -0.253(3) 0.015(2) -0.011(2)
+-0.006(3) 0.028(3) -0.006(3) -0.006(3) 0.003(3) -0.013(3) 0.013(3) 0.317(4)
+-0.054(4) 0 0 0 0 0 0 0 0 0 1.0150(9) 1 1 1 1 1
+C(4) 4.021(12) 0 -0.051(3) -0.038(3) -0.008(3) -0.003(3) 0.017(3) 0.051(3)
+-0.030(3) 0.020(3) 0.081(3) -0.096(3) -0.187(3) -0.025(3) 0.048(3) 0.033(4)
+-0.060(3) 0 0 0 0 0 0 0 0 0 1.0150(9) 1 1 1 1 1
+H(5A) 0.771(4) 0 0 0 0.232(3) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2 1.2
+1.2 1.2 1.2 1.2
+H(5B) 0.771(4) 0 0 0 0.232(3) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2 1.2
+1.2 1.2 1.2 1.2
+H(2C) 0.978(5) 0 0 0 0.151(3) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2 1.2
+1.2 1.2 1.2 1.2
+H(2B) 0.978(5) 0 0 0 0.151(3) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2 1.2
+1.2 1.2 1.2 1.2
+H(2A) 0.978(5) 0 0 0 0.151(3) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2 1.2
+1.2 1.2 1.2 1.2
+H(4C) 1.024(5) 0 0 0 0.213(3) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2 1.2
+1.2 1.2 1.2 1.2
+H(4B) 1.024(5) 0 0 0 0.213(3) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2 1.2
+1.2 1.2 1.2 1.2
+H(4A) 1.024(5) 0 0 0 0.213(3) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.2 1.2
+1.2 1.2 1.2 1.2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+Cu2+(1) Cu2+ 0.6546027(11) 0.3347523(15) 0.4551468(12) 0.007 Uani 1 8
+O(1) O 0.578036(7) 0.129137(9) 0.424284(8) 0.013 Uani 1 8
+O(2) O 0.742276(7) -0.016540(9) 0.498870(8) 0.013 Uani 1 8
+O(3) O 0.665874(6) 0.339791(9) 0.601234(6) 0.011 Uani 1 8
+O(4) O 0.825916(7) 0.188070(9) 0.676113(7) 0.012 Uani 1 8
+O(5) O 0.492242(6) 0.460228(10) 0.365932(8) 0.014 Uani 1 8
+C(1) C 0.632341(6) -0.000889(8) 0.448133(7) 0.01 Uani 1 8
+C(2) C 0.559436(9) -0.148118(10) 0.414212(9) 0.016 Uani 1 8
+C(3) C 0.748154(6) 0.269972(8) 0.681615(6) 0.009 Uani 1 8
+C(4) C 0.756531(10) 0.285807(14) 0.791867(9) 0.017 Uani 1 8
+H(5A) H 0.427757(6) 0.406939(10) 0.293591(8) 0.0360(7) Uiso 1 8
+H(5B) H 0.439690(6) 0.533647(10) 0.384903(8) 0.0327(7) Uiso 1 8
+H(2C) H 0.611756(9) -0.252030(10) 0.424244(9) 0.0477(8) Uiso 1 8
+H(2B) H 0.491648(9) -0.140738(10) 0.329321(9) 0.0553(9) Uiso 1 8
+H(2A) H 0.516789(9) -0.159421(10) 0.463468(9) 0.0464(8) Uiso 1 8
+H(4C) H 0.684782(10) 0.354617(14) 0.788199(9) 0.0520(8) Uiso 1 8
+H(4B) H 0.840743(10) 0.337884(14) 0.847118(9) 0.0670(10) Uiso 1 8
+H(4A) H 0.762558(10) 0.170455(14) 0.827482(9) 0.0573(9) Uiso 1 8
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Cu2+(1) 0.006427(4) 0.007692(4) 0.007104(5) -0.000012(3) 0.003294(3) 0.000596(3)
+O(1) 0.010946(19) 0.01059(2) 0.01663(3) -0.001919(19) 0.00643(2) -0.001980(16)
+O(2) 0.011487(19) 0.009847(19) 0.01616(3) -0.000776(18) 0.00623(2) -0.001800(15)
+O(3) 0.010751(18) 0.01390(2) 0.00843(2) 0.000762(17) 0.005118(16) 0.002809(16)
+O(4) 0.011983(19) 0.01528(2) 0.00876(2) 0.001641(17) 0.005681(18) 0.004123(17)
+O(5) 0.009373(18) 0.01539(2) 0.01341(3) -0.00397(2) 0.001974(18) 0.003464(17)
+C(1) 0.011747(19) 0.009343(19) 0.01120(3) -0.002113(17) 0.006790(18)
+-0.003091(16)
+C(2) 0.01741(3) 0.01279(3) 0.01844(4) -0.00438(2) 0.01007(3) -0.00685(2)
+C(3) 0.010077(18) 0.01108(2) 0.00768(2) -0.000050(16) 0.004942(16) 0.000680(15)
+C(4) 0.01995(3) 0.02414(4) 0.00966(3) 0.00124(3) 0.00877(3) 0.00589(3)
+loop_
+_exptl_crystal_face_index_h
+_exptl_crystal_face_index_k
+_exptl_crystal_face_index_l
+_exptl_crystal_face_perp_dist
+_exptl_oxdiff_crystal_face_indexfrac_h
+_exptl_oxdiff_crystal_face_indexfrac_k
+_exptl_oxdiff_crystal_face_indexfrac_l
+_exptl_oxdiff_crystal_face_x
+_exptl_oxdiff_crystal_face_y
+_exptl_oxdiff_crystal_face_z
+-1 0 0 0.0550 -1.0004 -0.0039 0.0053 -0.0093 -0.0584 -0.0187
+-9 1 2 0.0675 -9.0011 0.9988 1.9991 -0.1499 -0.4954 -0.0458
+1 -1 1 0.1390 1.0121 -0.9933 0.9878 0.1008 0.0598 0.0623
+0 0 -1 0.1783 -0.0039 -0.0014 -0.9955 -0.0096 -0.0105 -0.0560
+0 0 1 0.1991 0.0039 0.0014 0.9955 0.0096 0.0105 0.0560
+-1 1 -1 0.1300 -1.0121 0.9933 -0.9878 -0.1008 -0.0598 -0.0623
+1 -1 -1 0.0540 1.0043 -0.9961 -1.0033 0.0817 0.0387 -0.0496
+-1 -1 -1 0.0770 -0.9965 -1.0039 -0.9928 0.0630 -0.0781 -0.0870
+1 1 1 0.0960 0.9965 1.0039 0.9928 -0.0630 0.0781 0.0870
+1 1 -1 0.1270 0.9887 1.0010 -0.9983 -0.0821 0.0570 -0.0249
+-1 -1 1 0.1750 -0.9887 -1.0010 0.9983 0.0821 -0.0570 0.0249
+-1 1 1 0.0880 -1.0043 0.9961 1.0033 -0.0817 -0.0387 0.0496
+1 0 0 0.0730 1.0004 0.0039 -0.0053 0.0093 0.0584 0.0187
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+CU2+(1) CU2+(1) O(1) 83.050(3) 6_656 1_555 1_555 yes
+CU2+(1) CU2+(1) O(2) 86.253(3) 6_656 1_555 6_656 yes
+CU2+(1) CU2+(1) O(3) 86.771(2) 6_656 1_555 1_555 yes
+CU2+(1) CU2+(1) O(4) 82.431(2) 6_656 1_555 6_656 yes
+CU2+(1) CU2+(1) O(5) 173.967(3) 6_656 1_555 1_555 yes
+O(1) CU2+(1) O(2) 169.249(4) 1_555 1_555 6_656 yes
+O(1) CU2+(1) O(3) 91.103(4) 1_555 1_555 1_555 yes
+O(1) CU2+(1) O(4) 89.518(4) 1_555 1_555 6_656 yes
+O(1) CU2+(1) O(5) 93.495(4) 1_555 1_555 1_555 yes
+O(2) CU2+(1) O(3) 87.206(4) 6_656 1_555 1_555 yes
+O(2) CU2+(1) O(4) 90.147(4) 6_656 1_555 6_656 yes
+O(2) CU2+(1) O(5) 97.256(4) 6_656 1_555 1_555 yes
+O(3) CU2+(1) O(4) 169.030(3) 1_555 1_555 6_656 yes
+O(3) CU2+(1) O(5) 98.270(4) 1_555 1_555 1_555 yes
+O(4) CU2+(1) O(5) 92.623(4) 6_656 1_555 1_555 yes
+CU2+(1) O(1) O(2) 96.882(4) 1_555 1_555 1_555 yes
+CU2+(1) O(1) C(1) 124.122(7) 1_555 1_555 1_555 yes
+CU2+(1) O(1) C(2) 158.456(5) 1_555 1_555 1_555 yes
+CU2+(1) O(1) H(2B) 160.696(6) 1_555 1_555 1_555 yes
+CU2+(1) O(1) H(2A) 97.430(5) 1_555 1_555 3_656 yes
+O(2) O(1) C(1) 27.276(5) 1_555 1_555 1_555 yes
+O(2) O(1) C(2) 61.680(4) 1_555 1_555 1_555 yes
+O(2) O(1) H(2B) 80.211(4) 1_555 1_555 1_555 yes
+O(2) O(1) H(2A) 115.276(6) 1_555 1_555 3_656 yes
+C(1) O(1) C(2) 34.406(5) 1_555 1_555 1_555 yes
+C(1) O(1) H(2B) 54.262(6) 1_555 1_555 1_555 yes
+C(1) O(1) H(2A) 108.417(8) 1_555 1_555 3_656 yes
+C(2) O(1) H(2B) 24.4834(13) 1_555 1_555 1_555 yes
+C(2) O(1) H(2A) 94.205(5) 1_555 1_555 3_656 yes
+H(2B) O(1) H(2A) 101.063(5) 1_555 1_555 3_656 yes
+CU2+(1) O(2) O(1) 93.795(4) 6_656 1_555 1_555 yes
+CU2+(1) O(2) C(1) 121.185(7) 6_656 1_555 1_555 yes
+CU2+(1) O(2) C(2) 155.450(6) 6_656 1_555 1_555 yes
+CU2+(1) O(2) H(2C) 174.660(7) 6_656 1_555 1_555 yes
+CU2+(1) O(2) H(2C) 102.482(4) 6_656 1_555 6_646 yes
+O(1) O(2) C(1) 27.400(5) 1_555 1_555 1_555 yes
+O(1) O(2) C(2) 61.672(4) 1_555 1_555 1_555 yes
+O(1) O(2) H(2C) 86.833(5) 1_555 1_555 1_555 yes
+O(1) O(2) H(2C) 163.400(5) 1_555 1_555 6_646 yes
+C(1) O(2) C(2) 34.274(5) 1_555 1_555 1_555 yes
+C(1) O(2) H(2C) 59.500(6) 1_555 1_555 1_555 yes
+C(1) O(2) H(2C) 136.269(7) 1_555 1_555 6_646 yes
+C(2) O(2) H(2C) 25.4951(13) 1_555 1_555 1_555 yes
+C(2) O(2) H(2C) 102.063(5) 1_555 1_555 6_646 yes
+H(2C) O(2) H(2C) 77.264(5) 1_555 1_555 6_646 yes
+CU2+(1) O(3) O(4) 92.992(4) 1_555 1_555 1_555 yes
+CU2+(1) O(3) C(3) 120.885(6) 1_555 1_555 1_555 yes
+CU2+(1) O(3) C(4) 154.387(5) 1_555 1_555 1_555 yes
+CU2+(1) O(3) H(5B) 116.392(6) 1_555 1_555 3_666 yes
+CU2+(1) O(3) H(2A) 92.069(4) 1_555 1_555 3_656 yes
+CU2+(1) O(3) H(4C) 177.944(6) 1_555 1_555 1_555 yes
+O(4) O(3) C(3) 27.920(5) 1_555 1_555 1_555 yes
+O(4) O(3) C(4) 61.549(4) 1_555 1_555 1_555 yes
+O(4) O(3) H(5B) 150.262(7) 1_555 1_555 3_666 yes
+O(4) O(3) H(2A) 108.220(5) 1_555 1_555 3_656 yes
+O(4) O(3) H(4C) 86.921(5) 1_555 1_555 1_555 yes
+C(3) O(3) C(4) 33.631(5) 1_555 1_555 1_555 yes
+C(3) O(3) H(5B) 122.433(8) 1_555 1_555 3_666 yes
+C(3) O(3) H(2A) 105.685(7) 1_555 1_555 3_656 yes
+C(3) O(3) H(4C) 59.002(6) 1_555 1_555 1_555 yes
+C(4) O(3) H(5B) 88.833(6) 1_555 1_555 3_666 yes
+C(4) O(3) H(2A) 98.379(6) 1_555 1_555 3_656 yes
+C(4) O(3) H(4C) 25.3865(16) 1_555 1_555 1_555 yes
+H(5B) O(3) H(2A) 76.868(5) 3_666 1_555 3_656 yes
+H(5B) O(3) H(4C) 63.545(5) 3_666 1_555 1_555 yes
+H(2A) O(3) H(4C) 89.908(5) 3_656 1_555 1_555 yes
+CU2+(1) O(4) O(3) 97.742(5) 6_656 1_555 1_555 yes
+CU2+(1) O(4) C(3) 125.469(7) 6_656 1_555 1_555 yes
+CU2+(1) O(4) C(4) 159.436(5) 6_656 1_555 1_555 yes
+CU2+(1) O(4) H(5A) 116.803(6) 6_656 1_555 8_555 yes
+CU2+(1) O(4) H(4B) 154.663(6) 6_656 1_555 1_555 yes
+CU2+(1) O(4) H(4A) 167.042(6) 6_656 1_555 1_555 yes
+O(3) O(4) C(3) 27.835(5) 1_555 1_555 1_555 yes
+O(3) O(4) C(4) 62.295(4) 1_555 1_555 1_555 yes
+O(3) O(4) H(5A) 145.455(7) 1_555 1_555 8_555 yes
+O(3) O(4) H(4B) 77.561(4) 1_555 1_555 1_555 yes
+O(3) O(4) H(4A) 79.659(4) 1_555 1_555 1_555 yes
+C(3) O(4) C(4) 34.462(6) 1_555 1_555 1_555 yes
+C(3) O(4) H(5A) 117.684(9) 1_555 1_555 8_555 yes
+C(3) O(4) H(4B) 51.887(6) 1_555 1_555 1_555 yes
+C(3) O(4) H(4A) 53.363(6) 1_555 1_555 1_555 yes
+C(4) O(4) H(5A) 83.293(6) 1_555 1_555 8_555 yes
+C(4) O(4) H(4B) 24.1997(15) 1_555 1_555 1_555 yes
+C(4) O(4) H(4A) 24.2919(15) 1_555 1_555 1_555 yes
+H(5A) O(4) H(4B) 71.212(6) 8_555 1_555 1_555 yes
+H(5A) O(4) H(4A) 66.636(6) 8_555 1_555 1_555 yes
+H(4B) O(4) H(4A) 37.436(2) 1_555 1_555 1_555 yes
+CU2+(1) O(5) H(5A) 116.451(3) 1_555 1_555 1_555 yes
+CU2+(1) O(5) H(5B) 136.643(3) 1_555 1_555 1_555 yes
+H(5A) O(5) H(5B) 100.659350771(14) 1_555 1_555 1_555 yes
+O(1) C(1) O(2) 125.324(8) 1_555 1_555 1_555 yes
+O(1) C(1) C(2) 117.154(9) 1_555 1_555 1_555 yes
+O(1) C(1) H(2C) 144.193(8) 1_555 1_555 1_555 yes
+O(1) C(1) H(2B) 97.014(7) 1_555 1_555 1_555 yes
+O(1) C(1) H(2A) 104.310(7) 1_555 1_555 1_555 yes
+O(2) C(1) C(2) 117.518(9) 1_555 1_555 1_555 yes
+O(2) C(1) H(2C) 90.246(7) 1_555 1_555 1_555 yes
+O(2) C(1) H(2B) 133.584(8) 1_555 1_555 1_555 yes
+O(2) C(1) H(2A) 123.319(8) 1_555 1_555 1_555 yes
+C(2) C(1) H(2C) 27.728(3) 1_555 1_555 1_555 yes
+C(2) C(1) H(2B) 28.335(3) 1_555 1_555 1_555 yes
+C(2) C(1) H(2A) 29.132(3) 1_555 1_555 1_555 yes
+H(2C) C(1) H(2B) 48.271(3) 1_555 1_555 1_555 yes
+H(2C) C(1) H(2A) 48.963(3) 1_555 1_555 1_555 yes
+H(2B) C(1) H(2A) 48.693(3) 1_555 1_555 1_555 yes
+O(1) C(2) O(2) 56.647(4) 1_555 1_555 1_555 yes
+O(1) C(2) C(1) 28.441(5) 1_555 1_555 1_555 yes
+O(1) C(2) H(2C) 139.832(3) 1_555 1_555 1_555 yes
+O(1) C(2) H(2B) 90.747(4) 1_555 1_555 1_555 yes
+O(1) C(2) H(2A) 96.892(4) 1_555 1_555 1_555 yes
+O(2) C(2) C(1) 28.208(5) 1_555 1_555 1_555 yes
+O(2) C(2) H(2C) 84.334(4) 1_555 1_555 1_555 yes
+O(2) C(2) H(2B) 127.326(4) 1_555 1_555 1_555 yes
+O(2) C(2) H(2A) 115.464(4) 1_555 1_555 1_555 yes
+C(1) C(2) H(2C) 112.055(6) 1_555 1_555 1_555 yes
+C(1) C(2) H(2B) 110.526(6) 1_555 1_555 1_555 yes
+C(1) C(2) H(2A) 108.430(6) 1_555 1_555 1_555 yes
+H(2C) C(2) H(2B) 108.328910933(11) 1_555 1_555 1_555 yes
+H(2C) C(2) H(2A) 109.516572917(18) 1_555 1_555 1_555 yes
+H(2B) C(2) H(2A) 107.89609314(2) 1_555 1_555 1_555 yes
+O(3) C(3) O(4) 124.245(9) 1_555 1_555 1_555 yes
+O(3) C(3) C(4) 118.661(8) 1_555 1_555 1_555 yes
+O(3) C(3) H(5A) 160.609(8) 1_555 1_555 8_555 yes
+O(3) C(3) H(4C) 90.893(7) 1_555 1_555 1_555 yes
+O(3) C(3) H(4B) 129.449(8) 1_555 1_555 1_555 yes
+O(3) C(3) H(4A) 132.800(7) 1_555 1_555 1_555 yes
+O(4) C(3) C(4) 117.089(9) 1_555 1_555 1_555 yes
+O(4) C(3) H(5A) 36.494(6) 1_555 1_555 8_555 yes
+O(4) C(3) H(4C) 144.860(8) 1_555 1_555 1_555 yes
+O(4) C(3) H(4B) 99.918(7) 1_555 1_555 1_555 yes
+O(4) C(3) H(4A) 98.256(7) 1_555 1_555 1_555 yes
+C(4) C(3) H(5A) 80.670(6) 1_555 1_555 8_555 yes
+C(4) C(3) H(4C) 27.794(3) 1_555 1_555 1_555 yes
+C(4) C(3) H(4B) 29.223(3) 1_555 1_555 1_555 yes
+C(4) C(3) H(4A) 28.444(3) 1_555 1_555 1_555 yes
+H(5A) C(3) H(4C) 108.386(6) 8_555 1_555 1_555 yes
+H(5A) C(3) H(4B) 68.071(5) 8_555 1_555 1_555 yes
+H(5A) C(3) H(4A) 63.724(5) 8_555 1_555 1_555 yes
+H(4C) C(3) H(4B) 49.635(3) 1_555 1_555 1_555 yes
+H(4C) C(3) H(4A) 49.510(3) 1_555 1_555 1_555 yes
+H(4B) C(3) H(4A) 46.995(3) 1_555 1_555 1_555 yes
+O(3) C(4) O(4) 56.156(4) 1_555 1_555 1_555 yes
+O(3) C(4) C(3) 27.708(4) 1_555 1_555 1_555 yes
+O(3) C(4) H(4C) 84.237(3) 1_555 1_555 1_555 yes
+O(3) C(4) H(4B) 119.904(4) 1_555 1_555 1_555 yes
+O(3) C(4) H(4A) 125.123(4) 1_555 1_555 1_555 yes
+O(4) C(4) C(3) 28.450(4) 1_555 1_555 1_555 yes
+O(4) C(4) H(4C) 140.345(4) 1_555 1_555 1_555 yes
+O(4) C(4) H(4B) 92.198(4) 1_555 1_555 1_555 yes
+O(4) C(4) H(4A) 91.922(4) 1_555 1_555 1_555 yes
+C(3) C(4) H(4C) 111.918(5) 1_555 1_555 1_555 yes
+C(3) C(4) H(4B) 108.086(6) 1_555 1_555 1_555 yes
+C(3) C(4) H(4A) 110.243(6) 1_555 1_555 1_555 yes
+H(4C) C(4) H(4B) 111.46604386(2) 1_555 1_555 1_555 yes
+H(4C) C(4) H(4A) 111.996022663(16) 1_555 1_555 1_555 yes
+H(4B) C(4) H(4A) 102.69747838(2) 1_555 1_555 1_555 yes
+O(4) H(5A) O(5) 177.374(4) 8_454 1_555 1_555 yes
+O(4) H(5A) C(3) 25.823(4) 8_454 1_555 8_454 yes
+O(4) H(5A) H(5B) 142.618(4) 8_454 1_555 1_555 yes
+O(4) H(5A) H(4C) 86.154(6) 8_454 1_555 3_666 yes
+O(4) H(5A) H(4B) 70.631(5) 8_454 1_555 8_454 yes
+O(4) H(5A) H(4A) 74.231(5) 8_454 1_555 8_454 yes
+O(5) H(5A) C(3) 154.174(4) 1_555 1_555 8_454 yes
+O(5) H(5A) H(5B) 39.695200469(7) 1_555 1_555 1_555 yes
+O(5) H(5A) H(4C) 96.374(4) 1_555 1_555 3_666 yes
+O(5) H(5A) H(4B) 108.402(3) 1_555 1_555 8_454 yes
+O(5) H(5A) H(4A) 106.598(4) 1_555 1_555 8_454 yes
+C(3) H(5A) H(5B) 125.191(3) 8_454 1_555 1_555 yes
+C(3) H(5A) H(4C) 92.166(5) 8_454 1_555 3_666 yes
+C(3) H(5A) H(4B) 47.591(4) 8_454 1_555 8_454 yes
+C(3) H(5A) H(4A) 49.657(4) 8_454 1_555 8_454 yes
+H(5B) H(5A) H(4C) 67.859(4) 1_555 1_555 3_666 yes
+H(5B) H(5A) H(4B) 100.672(4) 1_555 1_555 8_454 yes
+H(5B) H(5A) H(4A) 77.471(4) 1_555 1_555 8_454 yes
+H(4C) H(5A) H(4B) 122.874(4) 3_666 1_555 8_454 yes
+H(4C) H(5A) H(4A) 86.022(4) 3_666 1_555 8_454 yes
+H(4B) H(5A) H(4A) 38.169(2) 8_454 1_555 8_454 yes
+O(3) H(5B) O(5) 172.517(4) 3_666 1_555 1_555 yes
+O(3) H(5B) H(5A) 133.427(4) 3_666 1_555 1_555 yes
+O(3) H(5B) H(4C) 72.487(5) 3_666 1_555 3_666 yes
+O(3) H(5B) H(4A) 80.069(5) 3_666 1_555 8_454 yes
+O(5) H(5B) H(5A) 39.645450861(7) 1_555 1_555 1_555 yes
+O(5) H(5B) H(4C) 100.579(4) 1_555 1_555 3_666 yes
+O(5) H(5B) H(4A) 96.606(4) 1_555 1_555 8_454 yes
+H(5A) H(5B) H(4C) 72.677(4) 1_555 1_555 3_666 yes
+H(5A) H(5B) H(4A) 66.331(4) 1_555 1_555 8_454 yes
+H(4C) H(5B) H(4A) 83.825(4) 3_666 1_555 8_454 yes
+O(2) H(2C) O(2) 102.736(5) 1_555 1_555 6_646 yes
+O(2) H(2C) C(1) 30.254(3) 1_555 1_555 1_555 yes
+O(2) H(2C) C(2) 70.171(3) 1_555 1_555 1_555 yes
+O(2) H(2C) H(2B) 93.480(4) 1_555 1_555 1_555 yes
+O(2) H(2C) H(2A) 87.301(3) 1_555 1_555 1_555 yes
+O(2) H(2C) H(4C) 98.680(5) 1_555 1_555 4_554 yes
+O(2) H(2C) C(1) 132.717(6) 6_646 1_555 1_555 yes
+O(2) H(2C) C(2) 165.107(4) 6_646 1_555 1_555 yes
+O(2) H(2C) H(2B) 158.582(4) 6_646 1_555 1_555 yes
+O(2) H(2C) H(2A) 134.145(4) 6_646 1_555 1_555 yes
+O(2) H(2C) H(4C) 66.362(5) 6_646 1_555 4_554 yes
+C(1) H(2C) C(2) 40.217(4) 1_555 1_555 1_555 yes
+C(1) H(2C) H(2B) 65.333(4) 1_555 1_555 1_555 yes
+C(1) H(2C) H(2A) 64.214(4) 1_555 1_555 1_555 yes
+C(1) H(2C) H(4C) 111.940(6) 1_555 1_555 4_554 yes
+C(2) H(2C) H(2B) 35.859947111(6) 1_555 1_555 1_555 yes
+C(2) H(2C) H(2A) 35.266404563(9) 1_555 1_555 1_555 yes
+C(2) H(2C) H(4C) 126.779(4) 1_555 1_555 4_554 yes
+H(2B) H(2C) H(2A) 59.613252516(6) 1_555 1_555 1_555 yes
+H(2B) H(2C) H(4C) 97.688(4) 1_555 1_555 4_554 yes
+H(2A) H(2C) H(4C) 156.984(4) 1_555 1_555 4_554 yes
+O(1) H(2B) C(1) 28.724(3) 1_555 1_555 1_555 yes
+O(1) H(2B) C(2) 64.769(4) 1_555 1_555 1_555 yes
+O(1) H(2B) H(2C) 94.745(4) 1_555 1_555 1_555 yes
+O(1) H(2B) H(2B) 105.448(4) 1_555 1_555 2_655 yes
+O(1) H(2B) H(2A) 74.023(4) 1_555 1_555 1_555 yes
+C(1) H(2B) C(2) 41.139(4) 1_555 1_555 1_555 yes
+C(1) H(2B) H(2C) 66.397(4) 1_555 1_555 1_555 yes
+C(1) H(2B) H(2B) 107.212(6) 1_555 1_555 2_655 yes
+C(1) H(2B) H(2A) 64.868(4) 1_555 1_555 1_555 yes
+C(2) H(2B) H(2C) 35.811144056(6) 1_555 1_555 1_555 yes
+C(2) H(2B) H(2B) 129.648(6) 1_555 1_555 2_655 yes
+C(2) H(2B) H(2A) 36.052796602(10) 1_555 1_555 1_555 yes
+H(2C) H(2B) H(2B) 104.821(5) 1_555 1_555 2_655 yes
+H(2C) H(2B) H(2A) 60.564613985(4) 1_555 1_555 1_555 yes
+H(2B) H(2B) H(2A) 164.932(5) 2_655 1_555 1_555 yes
+O(1) H(2A) O(3) 67.602(4) 3_656 1_555 3_656 yes
+O(1) H(2A) C(1) 127.649(6) 3_656 1_555 1_555 yes
+O(1) H(2A) C(2) 168.893(3) 3_656 1_555 1_555 yes
+O(1) H(2A) H(2C) 154.108(4) 3_656 1_555 1_555 yes
+O(1) H(2A) H(2B) 142.582(4) 3_656 1_555 1_555 yes
+O(1) H(2A) H(4B) 69.412(5) 3_656 1_555 7_646 yes
+O(3) H(2A) C(1) 157.138(7) 3_656 1_555 1_555 yes
+O(3) H(2A) C(2) 120.068(3) 3_656 1_555 1_555 yes
+O(3) H(2A) H(2C) 107.075(3) 3_656 1_555 1_555 yes
+O(3) H(2A) H(2B) 91.225(4) 3_656 1_555 1_555 yes
+O(3) H(2A) H(4B) 117.793(6) 3_656 1_555 7_646 yes
+C(1) H(2A) C(2) 42.437(4) 1_555 1_555 1_555 yes
+C(1) H(2A) H(2C) 66.823(4) 1_555 1_555 1_555 yes
+C(1) H(2A) H(2B) 66.440(4) 1_555 1_555 1_555 yes
+C(1) H(2A) H(4B) 84.962(5) 1_555 1_555 7_646 yes
+C(2) H(2A) H(2C) 35.217024621(10) 1_555 1_555 1_555 yes
+C(2) H(2A) H(2B) 36.051112359(10) 1_555 1_555 1_555 yes
+C(2) H(2A) H(4B) 110.290(4) 1_555 1_555 7_646 yes
+H(2C) H(2A) H(2B) 59.822135600(7) 1_555 1_555 1_555 yes
+H(2C) H(2A) H(4B) 93.357(4) 1_555 1_555 7_646 yes
+H(2B) H(2A) H(4B) 146.255(4) 1_555 1_555 7_646 yes
+O(3) H(4C) C(3) 30.105(3) 1_555 1_555 1_555 yes
+O(3) H(4C) C(4) 70.376(3) 1_555 1_555 1_555 yes
+O(3) H(4C) H(5A) 79.687(5) 1_555 1_555 3_666 yes
+O(3) H(4C) H(5B) 43.968(4) 1_555 1_555 3_666 yes
+O(3) H(4C) H(2C) 147.550(7) 1_555 1_555 4_555 yes
+O(3) H(4C) H(4B) 89.235(3) 1_555 1_555 1_555 yes
+O(3) H(4C) H(4A) 91.645(3) 1_555 1_555 1_555 yes
+C(3) H(4C) C(4) 40.288(4) 1_555 1_555 1_555 yes
+C(3) H(4C) H(5A) 107.327(6) 1_555 1_555 3_666 yes
+C(3) H(4C) H(5B) 74.028(5) 1_555 1_555 3_666 yes
+C(3) H(4C) H(2C) 141.434(7) 1_555 1_555 4_555 yes
+C(3) H(4C) H(4B) 63.753(4) 1_555 1_555 1_555 yes
+C(3) H(4C) H(4A) 64.657(4) 1_555 1_555 1_555 yes
+C(4) H(4C) H(5A) 141.178(4) 1_555 1_555 3_666 yes
+C(4) H(4C) H(5B) 114.160(4) 1_555 1_555 3_666 yes
+C(4) H(4C) H(2C) 113.259(3) 1_555 1_555 4_555 yes
+C(4) H(4C) H(4B) 34.237320119(12) 1_555 1_555 1_555 yes
+C(4) H(4C) H(4A) 34.011042853(8) 1_555 1_555 1_555 yes
+H(5A) H(4C) H(5B) 39.464(3) 3_666 1_555 3_666 yes
+H(5A) H(4C) H(2C) 105.307(5) 3_666 1_555 4_555 yes
+H(5A) H(4C) H(4B) 124.882(4) 3_666 1_555 1_555 yes
+H(5A) H(4C) H(4A) 171.119(4) 3_666 1_555 1_555 yes
+H(5B) H(4C) H(2C) 124.048(6) 3_666 1_555 4_555 yes
+H(5B) H(4C) H(4B) 124.175(4) 3_666 1_555 1_555 yes
+H(5B) H(4C) H(4A) 131.744(4) 3_666 1_555 1_555 yes
+H(2C) H(4C) H(4B) 111.703(4) 4_555 1_555 1_555 yes
+H(2C) H(4C) H(4A) 80.984(3) 4_555 1_555 1_555 yes
+H(4B) H(4C) H(4A) 56.279922852(3) 1_555 1_555 1_555 yes
+O(4) H(4B) C(3) 28.195(3) 1_555 1_555 1_555 yes
+O(4) H(4B) C(4) 63.602(4) 1_555 1_555 1_555 yes
+O(4) H(4B) H(5A) 38.157(3) 1_555 1_555 8_555 yes
+O(4) H(4B) H(2A) 133.453(6) 1_555 1_555 7_656 yes
+O(4) H(4B) H(4C) 93.335(3) 1_555 1_555 1_555 yes
+O(4) H(4B) H(4A) 71.162(4) 1_555 1_555 1_555 yes
+C(3) H(4B) C(4) 42.691(4) 1_555 1_555 1_555 yes
+C(3) H(4B) H(5A) 64.339(4) 1_555 1_555 8_555 yes
+C(3) H(4B) H(2A) 160.901(7) 1_555 1_555 7_656 yes
+C(3) H(4B) H(4C) 66.612(4) 1_555 1_555 1_555 yes
+C(3) H(4B) H(4A) 67.400(4) 1_555 1_555 1_555 yes
+C(4) H(4B) H(5A) 84.420(3) 1_555 1_555 8_555 yes
+C(4) H(4B) H(2A) 140.115(4) 1_555 1_555 7_656 yes
+C(4) H(4B) H(4C) 34.296638120(12) 1_555 1_555 1_555 yes
+C(4) H(4B) H(4A) 38.696810441(10) 1_555 1_555 1_555 yes
+H(5A) H(4B) H(2A) 96.573(5) 8_555 1_555 7_656 yes
+H(5A) H(4B) H(4C) 118.711(3) 8_555 1_555 1_555 yes
+H(5A) H(4B) H(4A) 66.609(4) 8_555 1_555 1_555 yes
+H(2A) H(4B) H(4C) 127.236(4) 7_656 1_555 1_555 yes
+H(2A) H(4B) H(4A) 105.610(4) 7_656 1_555 1_555 yes
+H(4C) H(4B) H(4A) 62.081200297(5) 1_555 1_555 1_555 yes
+O(4) H(4A) C(3) 28.382(3) 1_555 1_555 1_555 yes
+O(4) H(4A) C(4) 63.787(3) 1_555 1_555 1_555 yes
+O(4) H(4A) H(5A) 39.134(3) 1_555 1_555 8_555 yes
+O(4) H(4A) H(5B) 73.303(4) 1_555 1_555 8_555 yes
+O(4) H(4A) H(4C) 93.285(3) 1_555 1_555 1_555 yes
+O(4) H(4A) H(4B) 71.402(4) 1_555 1_555 1_555 yes
+C(3) H(4A) C(4) 41.313(4) 1_555 1_555 1_555 yes
+C(3) H(4A) H(5A) 66.619(5) 1_555 1_555 8_555 yes
+C(3) H(4A) H(5B) 101.651(5) 1_555 1_555 8_555 yes
+C(3) H(4A) H(4C) 65.833(4) 1_555 1_555 1_555 yes
+C(3) H(4A) H(4B) 65.605(4) 1_555 1_555 1_555 yes
+C(4) H(4A) H(5A) 91.388(4) 1_555 1_555 8_555 yes
+C(4) H(4A) H(5B) 125.425(4) 1_555 1_555 8_555 yes
+C(4) H(4A) H(4C) 33.992936585(8) 1_555 1_555 1_555 yes
+C(4) H(4A) H(4B) 38.605713278(11) 1_555 1_555 1_555 yes
+H(5A) H(4A) H(5B) 36.197(2) 8_555 1_555 8_555 yes
+H(5A) H(4A) H(4C) 125.301(4) 8_555 1_555 1_555 yes
+H(5A) H(4A) H(4B) 75.222(4) 8_555 1_555 1_555 yes
+H(5B) H(4A) H(4C) 158.403(4) 8_555 1_555 1_555 yes
+H(5B) H(4A) H(4B) 97.521(4) 8_555 1_555 1_555 yes
+H(4C) H(4A) H(4B) 61.638878952(8) 1_555 1_555 1_555 yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+CU2+(1) CU2+(1) 2.61082(3) 1_555 6_656 yes
+CU2+(1) O(1) 1.95475(8) 1_555 1_555 yes
+CU2+(1) O(2) 1.94228(8) 1_555 6_656 yes
+CU2+(1) O(3) 1.98431(9) 1_555 1_555 yes
+CU2+(1) O(4) 1.99045(10) 1_555 6_656 yes
+CU2+(1) O(5) 2.14884(8) 1_555 1_555 yes
+O(1) O(2) 2.24767(13) 1_555 1_555 yes
+O(1) C(1) 1.26778(13) 1_555 1_555 yes
+O(1) C(2) 2.36861(13) 1_555 1_555 yes
+O(1) H(2B) 2.61818(13) 1_555 1_555 yes
+O(1) H(2A) 2.45072(16) 1_555 3_656 yes
+O(2) C(1) 1.26249(12) 1_555 1_555 yes
+O(2) C(2) 2.36878(13) 1_555 1_555 yes
+O(2) H(2C) 2.50577(12) 1_555 1_555 yes
+O(2) H(2C) 2.58233(15) 1_555 6_646 yes
+O(3) O(4) 2.23791(11) 1_555 1_555 yes
+O(3) C(3) 1.26409(12) 1_555 1_555 yes
+O(3) C(4) 2.38554(15) 1_555 1_555 yes
+O(3) H(5B) 1.83444(12) 1_555 3_666 yes
+O(3) H(2A) 2.59926(13) 1_555 3_656 yes
+O(3) H(4C) 2.51985(15) 1_555 1_555 yes
+O(4) C(3) 1.26763(11) 1_555 1_555 yes
+O(4) C(4) 2.36904(14) 1_555 1_555 yes
+O(4) H(5A) 1.73078(13) 1_555 8_555 yes
+O(4) H(4B) 2.64286(15) 1_555 1_555 yes
+O(4) H(4A) 2.63913(15) 1_555 1_555 yes
+O(5) H(5A) 1.05390178979(17) 1_555 1_555 yes
+O(5) H(5B) 1.05500576983(13) 1_555 1_555 yes
+C(1) C(2) 1.50415(12) 1_555 1_555 yes
+C(1) H(2C) 2.15907(13) 1_555 1_555 yes
+C(1) H(2B) 2.14118(13) 1_555 1_555 yes
+C(1) H(2A) 2.11476(12) 1_555 1_555 yes
+C(2) H(2C) 1.0838645225(3) 1_555 1_555 yes
+C(2) H(2B) 1.0851436634(2) 1_555 1_555 yes
+C(2) H(2A) 1.08518748514(11) 1_555 1_555 yes
+C(3) C(4) 1.50570(15) 1_555 1_555 yes
+C(3) H(5A) 2.57704(13) 1_555 8_555 yes
+C(3) H(4C) 2.16024(14) 1_555 1_555 yes
+C(3) H(4B) 2.11094(15) 1_555 1_555 yes
+C(3) H(4A) 2.13988(15) 1_555 1_555 yes
+C(4) H(4C) 1.0858019249(2) 1_555 1_555 yes
+C(4) H(4B) 1.0841532304(3) 1_555 1_555 yes
+C(4) H(4A) 1.0863107150(3) 1_555 1_555 yes
+H(5A) H(5B) 1.62329016849(9) 1_555 1_555 yes
+H(5A) H(4C) 2.43811(16) 1_555 3_666 yes
+H(5A) H(4B) 2.65215(17) 1_555 8_454 yes
+H(5A) H(4A) 2.51747(16) 1_555 8_454 yes
+H(5B) H(4C) 2.36563(17) 1_555 3_666 yes
+H(5B) H(4A) 2.68323(16) 1_555 8_454 yes
+H(2C) H(2B) 1.75841675896(17) 1_555 1_555 yes
+H(2C) H(2A) 1.77151918789(10) 1_555 1_555 yes
+H(2C) H(4C) 2.66707(18) 1_555 4_554 yes
+H(2B) H(2B) 2.3434(3) 1_555 2_655 yes
+H(2B) H(2A) 1.75467730570(9) 1_555 1_555 yes
+H(2A) H(4B) 2.38741(18) 1_555 7_646 yes
+H(4C) H(4B) 1.79330094697(17) 1_555 1_555 yes
+H(4C) H(4A) 1.80072083950(19) 1_555 1_555 yes
+H(4B) H(4A) 1.69505037092(19) 1_555 1_555 yes
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 168308443

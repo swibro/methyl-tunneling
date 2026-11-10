@@ -1,0 +1,331 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-26 22:13:34 +0200 (Sat, 26 Mar 2016) $
+#$Revision: 180495 $
+#$URL: file:///home/coder/svn-repositories/_RELOADED_COD/cod-reloaded/cif/7/21/64/7216469.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7216469
+loop_
+_publ_author_name
+'Podsiad\/lo, Marcin'
+'Olejniczak, Anna'
+'Katrusiak, Andrzej'
+_publ_section_title
+;
+ Halogen&#x2219;&#x2219;&#x2219;halogen contra
+ C&#x2212;H&#x2219;&#x2219;&#x2219;halogen
+;
+_journal_name_full               CrystEngComm
+_journal_paper_doi               10.1039/c4ce00241e
+_journal_year                    2014
+_chemical_formula_moiety         'C H3 Cl'
+_chemical_formula_sum            'C H3 Cl'
+_chemical_formula_weight         50.48
+_chemical_melting_point          175.5
+_chemical_name_common            'methyl chloride'
+_chemical_name_systematic
+; 
+chloromethane 
+;
+_space_group_IT_number           36
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  'C 2c -2'
+_symmetry_space_group_name_H-M   'C m c 21'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           SHELXL-97
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            4
+_cell_length_a                   6.314(10)
+_cell_length_b                   5.031(9)
+_cell_length_c                   7.334(9)
+_cell_measurement_reflns_used    521
+_cell_measurement_temperature    295(2)
+_cell_measurement_theta_max      27.28
+_cell_measurement_theta_min      5.18
+_cell_volume                     233.0(6)
+_computing_cell_refinement       'CrysAlisRED (Oxford Diffraction, 2004)'
+_computing_data_collection       'CrysAlisCCD (Oxford Diffraction, 2004)'
+_computing_data_reduction
+'CrysAlisRED (Oxford Diffraction, 2004); REDSHABS (Katrusiak, A.  2003)'
+_computing_molecular_graphics    'SHELXTL (Sheldrick, 1990)'
+_computing_publication_material  'SHELXL--97 (Sheldrick, 1997)'
+_computing_structure_refinement  'SHELXL--97 (Sheldrick, 1997)'
+_computing_structure_solution    'SHELXS--97 (Sheldrick, 1997)'
+_diffrn_ambient_environment      'diamond-anvil cell'
+_diffrn_ambient_pressure         1220000
+_diffrn_ambient_temperature      295(2)
+_diffrn_measured_fraction_theta_full 0.404
+_diffrn_measured_fraction_theta_max 0.404
+_diffrn_measurement_device_type  'KM-4 CCD'
+_diffrn_measurement_method       '\f- and \w-scans'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'fine-focus sealed tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.0453
+_diffrn_reflns_av_sigmaI/netI    0.0223
+_diffrn_reflns_limit_h_max       7
+_diffrn_reflns_limit_h_min       -7
+_diffrn_reflns_limit_k_max       3
+_diffrn_reflns_limit_k_min       -3
+_diffrn_reflns_limit_l_max       9
+_diffrn_reflns_limit_l_min       -9
+_diffrn_reflns_number            472
+_diffrn_reflns_theta_full        27.28
+_diffrn_reflns_theta_max         27.28
+_diffrn_reflns_theta_min         5.18
+_diffrn_standards_decay_%        0
+_diffrn_standards_interval_count 0
+_diffrn_standards_number         0
+_exptl_absorpt_coefficient_mu    1.187
+_exptl_absorpt_correction_T_max  0.68
+_exptl_absorpt_correction_T_min  0.35
+_exptl_absorpt_correction_type   analytical
+_exptl_absorpt_process_details
+; 
+ Correction for absorption of the diamond-anvil cell and the sample 
+ were made using program REDSHABS (Katrusiak, A. (2003) REDSHABS. Adam
+ Mickiewicz University Pozna\'n; Katrusiak, A. (2004) Z. Kristallogr.
+ 219, 461-467).
+;
+_exptl_crystal_colour            colourless
+_exptl_crystal_density_diffrn    1.440
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       cylinder
+_exptl_crystal_F_000             104
+_exptl_crystal_size_max          0.27
+_exptl_crystal_size_mid          0.26
+_exptl_crystal_size_min          0.20
+_refine_diff_density_max         0.119
+_refine_diff_density_min         -0.104
+_refine_diff_density_rms         0.031
+_refine_ls_abs_structure_details 'Flack H D (1983), Acta Cryst. A39, 876-881'
+_refine_ls_abs_structure_Flack   0.1(3)
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.216
+_refine_ls_hydrogen_treatment    constr
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     13
+_refine_ls_number_reflns         120
+_refine_ls_number_restraints     1
+_refine_ls_restrained_S_all      1.211
+_refine_ls_R_factor_all          0.0357
+_refine_ls_R_factor_gt           0.0302
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0000P)^2^+0.3584P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.0476
+_refine_ls_wR_factor_ref         0.0530
+_reflns_number_gt                107
+_reflns_number_total             120
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            c4ce00241e2.cif
+_cod_data_source_block           4cm_122GPa
+_cod_original_cell_volume        232.9(6)
+_cod_database_code               7216469
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y, z+1/2'
+'x, -y, z+1/2'
+'-x, y, z'
+'x+1/2, y+1/2, z'
+'-x+1/2, -y+1/2, z+1/2'
+'x+1/2, -y+1/2, z+1/2'
+'-x+1/2, y+1/2, z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+Cl1 Cl 0.0000 0.1338(5) 0.2494(4) 0.0667(7) Uani 1 2 d S
+C1 C 0.0000 0.3717(18) 0.4228(4) 0.054(3) Uani 1 2 d S
+H1 H 0.0000 0.5463 0.3700 0.082 Uiso 1 2 calc SR
+H2 H 0.1241 0.3497 0.4969 0.082 Uiso 0.50 1 calc PR
+H3 H -0.1241 0.3497 0.4969 0.082 Uiso 0.50 1 calc PR
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Cl1 0.0653(10) 0.067(2) 0.0677(9) -0.005(3) 0.000 0.000
+C1 0.048(5) 0.059(12) 0.057(4) -0.002(4) 0.000 0.000
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.0033 0.0016 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H 0.0000 0.0000 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Cl Cl 0.1484 0.1585 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+Cl1 C1 H1 109.5
+Cl1 C1 H2 109.5
+H1 C1 H2 109.5
+Cl1 C1 H3 109.5
+H1 C1 H3 109.5
+H2 C1 H3 109.5
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+Cl1 C1 1.746(7)
+C1 H1 0.9600
+C1 H2 0.9600
+C1 H3 0.9600
+loop_
+_refln_index_h
+_refln_index_k
+_refln_index_l
+_refln_F_squared_calc
+_refln_F_squared_meas
+_refln_F_squared_sigma
+_refln_observed_status
+0 2 -9 13.41 9.45 2.51 o
+4 0 -8 5.84 3.02 1.25 o
+1 1 -8 18.58 28.70 2.30 o
+0 2 -8 0.34 2.07 1.07 o
+1 1 -7 42.56 49.82 2.07 o
+5 1 -7 7.34 1.72 0.96 o
+0 2 -7 47.41 54.20 2.60 o
+2 2 -7 35.17 35.53 2.88 o
+3 3 -7 6.79 4.97 1.62 o
+2 0 -6 209.01 198.37 3.86 o
+4 0 -6 87.48 68.59 19.18 o
+1 1 -6 36.78 47.15 8.93 o
+5 1 -6 4.48 6.51 1.43 o
+0 2 -6 1.59 0.97 0.61 o
+2 2 -6 1.33 2.68 0.92 o
+3 3 -6 10.64 9.14 1.61 o
+1 1 -5 239.79 229.32 3.07 o
+3 1 -5 123.60 134.05 5.92 o
+5 1 -5 36.74 44.14 5.38 o
+0 2 -5 143.26 127.91 3.39 o
+2 2 -5 104.90 113.07 3.25 o
+6 2 -5 8.20 10.43 1.23 o
+3 3 -5 28.23 28.48 2.27 o
+0 0 -4 727.94 732.88 4.62 o
+2 0 -4 419.57 415.21 6.75 o
+4 0 -4 137.10 121.74 1.14 o
+1 1 -4 334.02 350.41 5.68 o
+3 1 -4 169.57 167.52 2.93 o
+5 1 -4 45.23 39.24 1.28 o
+2 2 -4 5.47 5.82 0.48 o
+4 2 -4 1.65 0.92 0.54 o
+6 2 -4 0.37 0.36 0.68 o
+3 3 -4 76.27 69.47 2.10 o
+5 3 -4 22.82 22.75 1.45 o
+1 1 -3 317.90 316.61 7.16 o
+3 1 -3 133.41 132.69 5.55 o
+5 1 -3 32.20 28.61 2.29 o
+2 2 -3 707.98 711.65 10.98 o
+4 2 -3 250.17 274.48 51.70 o
+6 2 -3 56.92 64.70 2.99 o
+3 3 -3 24.13 19.10 1.28 o
+5 3 -3 6.04 10.67 1.23 o
+0 0 -2 1602.31 1608.35 8.73 o
+2 0 -2 1089.63 1135.05 10.42 o
+1 1 -2 1273.28 1255.32 14.71 o
+3 1 -2 389.68 406.45 3.51 o
+2 2 -2 7.73 10.42 0.54 o
+4 2 -2 2.89 3.70 0.65 o
+6 2 -2 0.46 0.21 0.46 o
+5 3 -2 50.39 59.68 1.97 o
+1 1 -1 1920.76 1914.91 2.99 o
+3 1 -1 590.62 599.75 6.79 o
+2 2 -1 706.23 725.00 10.30 o
+4 2 -1 210.56 207.26 2.42 o
+6 2 -1 42.37 41.38 1.71 o
+5 3 -1 31.10 26.94 1.52 o
+7 3 -1 5.62 0.71 1.15 o
+1 1 0 340.27 331.35 60.80 o
+3 1 0 189.80 204.03 2.21 o
+4 2 0 2.33 0.95 0.27 o
+5 3 0 26.08 24.68 8.17 o
+7 3 0 3.18 0.69 0.92 o
+1 1 1 1941.87 1928.71 20.57 o
+3 1 1 595.67 590.97 4.94 o
+2 2 1 694.40 717.84 16.10 o
+4 2 1 206.88 205.99 3.47 o
+6 2 1 41.18 43.50 1.92 o
+5 3 1 31.60 29.15 1.00 o
+7 3 1 5.74 9.47 1.70 o
+0 0 2 1639.35 1612.32 6.97 o
+2 0 2 1111.33 1126.28 11.60 o
+1 1 2 1260.49 1225.77 4.71 o
+3 1 2 384.49 356.09 8.28 o
+5 1 2 93.04 88.80 1.45 o
+2 2 2 7.63 9.07 0.50 o
+4 2 2 2.88 2.08 0.31 o
+6 2 2 0.46 0.55 0.76 o
+5 3 2 49.75 58.95 2.21 o
+1 1 3 314.18 323.39 4.11 o
+3 1 3 133.30 131.41 3.22 o
+5 1 3 32.08 29.43 1.59 o
+2 2 3 709.33 721.28 4.21 o
+4 2 3 250.28 206.60 37.61 o
+6 2 3 57.04 62.21 2.34 o
+3 3 3 24.07 23.52 2.02 o
+5 3 3 6.03 10.52 1.62 o
+0 0 4 715.89 717.57 5.12 o
+2 0 4 411.27 408.89 2.71 o
+4 0 4 133.76 123.35 2.92 o
+1 1 4 338.27 355.00 10.63 o
+3 1 4 171.76 168.27 3.28 o
+5 1 4 45.98 50.54 1.52 o
+2 2 4 5.46 4.11 0.46 o
+4 2 4 1.64 0.56 0.40 o
+6 2 4 0.37 1.52 0.78 o
+3 3 4 77.48 71.18 1.28 o
+5 3 4 23.26 19.80 1.60 o
+1 1 5 238.11 238.42 4.83 o
+3 1 5 122.24 137.09 4.10 o
+5 1 5 36.27 40.68 2.10 o
+0 2 5 145.65 143.04 3.26 o
+2 2 5 107.15 101.17 1.63 o
+6 2 5 8.51 11.59 2.13 o
+3 3 5 27.81 27.50 2.69 o
+2 0 6 209.54 206.55 4.04 o
+4 0 6 87.75 78.19 22.02 o
+1 1 6 36.60 36.23 7.39 o
+5 1 6 4.43 6.67 1.00 o
+0 2 6 1.61 1.20 0.44 o
+2 2 6 1.35 0.79 0.48 o
+3 3 6 10.47 11.01 1.11 o
+1 1 7 43.32 50.29 2.51 o
+5 1 7 7.53 8.99 1.43 o
+0 2 7 46.34 50.94 2.79 o
+2 2 7 34.28 33.46 4.00 o
+3 3 7 6.94 5.70 0.88 o
+4 0 8 6.05 8.95 1.66 o
+1 1 8 18.35 24.38 2.69 o
+0 2 8 0.34 0.73 0.73 o
+0 2 9 13.49 10.73 0.96 o

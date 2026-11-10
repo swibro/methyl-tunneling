@@ -1,0 +1,232 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-19 13:01:59 +0300 (Tue, 19 Aug 2025) $
+#$Revision: 301802 $
+#$URL: file:///home/coder/svn-repositories/_RELOADED_COD/cod-reloaded/cif/2/10/01/2100190.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2100190
+loop_
+_publ_author_name
+'Stride, J.A.'
+_publ_section_title
+;
+ Determination of the low-temperature structure of hexamethylbenzene
+;
+_journal_issue                   2
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              200
+_journal_page_last               206
+_journal_paper_doi               10.1107/S0108768104034007
+_journal_volume                  61
+_journal_year                    2005
+_chemical_formula_moiety         C6(CD3)6
+_chemical_formula_sum            'C12 D18'
+_chemical_formula_weight         180.38
+_chemical_name_common            d-hexamethylbenzene
+_chemical_name_systematic        1,2,3,4,5,6-hexadeuteromethylbenzene
+_space_group_IT_number           2
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_Hall  '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_audit_creation_method           'from EXP file using GSAS2CIF'
+_cell_angle_alpha                90.041(9)
+_cell_angle_beta                 90.129(9)
+_cell_angle_gamma                90.239(7)
+_cell_formula_units_Z            1
+_cell_length_a                   6.1803(5)
+_cell_length_b                   6.1898(6)
+_cell_length_c                   6.1993(5)
+_cell_measurement_temperature    5
+_cell_volume                     237.15(4)
+_computing_structure_refinement  GSAS
+_diffrn_ambient_temperature      5
+_diffrn_radiation_type           'monchromatic beam'
+_diffrn_radiation_wavelength     1.594
+_exptl_absorpt_process_details
+;   GSAS Absorption/surface roughness correction: function number 0
+ No correction is applied.
+;
+_refine_ls_goodness_of_fit_all   3.90
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     10
+_refine_ls_number_restraints     0
+_refine_ls_shift/su_max          5.80
+_refine_ls_shift/su_mean         1.43
+_reflns_number_total             920
+_cod_data_source_file            lc5016.cif
+_cod_data_source_block           HMB_5_publ
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+'/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (48 times).
+
+Automatic conversion script
+Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius 
+
+The following automatic conversions were performed:
+
+'_cell_measurement_temperature' value '5K' was changed to '5' - the
+value should be numeric and without a unit designator.
+
+Automatic conversion script
+Id: cif_fix_values 1646 2011-03-28 12:23:43Z adriana 
+
+The following automatic conversions were performed:
+
+'_cell_measurement_temperature' value '5K' was changed to '5' - the
+value should be numeric and without a unit
+designator.
+
+'_geom_bond_publ_flag' value 'N' changed to 'n'
+according to /home/saulius/struct/CIF-dictionaries/cif_core.dic
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29 (48
+times).
+
+'_geom_angle_publ_flag' value 'N' changed to 'n' according
+to /home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary
+named 'cif_core.dic' version 2.4.1 from 2010-06-29 (27 times).
+
+Automatic conversion script
+Id: cif_fix_values 1715 2011-07-08 13:25:40Z adriana 
+;
+_cod_original_cell_volume        237.150(14)
+_cod_database_code               2100190
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 +x,+y,+z
+-1 -x,-y,-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+_atom_site_occupancy
+_atom_site_type_symbol
+C1 0.43326 0.38278 0.68151 0.00871 Uiso 1.0 C
+C2 0.61682 0.32033 0.56359 0.0062 Uiso 1.0 C
+C3 0.68292 0.43816 0.38074 0.00682 Uiso 1.0 C
+C4 0.35637 0.25071 0.87303 0.00516 Uiso 1.0 C
+C5 0.75184 0.13106 0.64031 0.00804 Uiso 1.0 C
+C6 0.87607 0.35584 0.24891 0.00502 Uiso 1.0 C
+D7 0.186 0.26093 0.89557 0.02554 Uiso 1.0 D
+D8 0.42472 0.30481 1.02228 0.0321 Uiso 1.0 D
+D9 0.398 0.0886 0.85071 0.01524 Uiso 1.0 D
+D10 0.74229 0.10025 0.8093 0.02213 Uiso 1.0 D
+D11 0.9196 0.15669 0.60815 0.0188 Uiso 1.0 D
+D12 0.711 -0.00779 0.54984 0.02646 Uiso 1.0 D
+D13 1.0264 0.4244 0.3059 0.02564 Uiso 1.0 D
+D14 0.85621 0.40271 0.08078 0.02341 Uiso 1.0 D
+D15 0.88495 0.17802 0.25039 0.01691 Uiso 1.0 D
+loop_
+_atom_type_symbol
+_atom_type_scat_source
+C International_Tables_Vol_C
+D International_Tables_Vol_C
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle
+_geom_angle_publ_flag
+C2 C1 C3 1_555 -1_666 119.937(6) n
+C2 C1 C4 1_555 1_555 120.760(7) n
+C3 C1 C4 -1_666 1_555 119.271(7) n
+C1 C2 C3 1_555 1_555 120.684(7) n
+C1 C2 C5 1_555 1_555 119.739(6) n
+C3 C2 C5 1_555 1_555 119.504(7) n
+C1 C3 C2 -1_666 1_555 119.378(7) n
+C1 C3 C6 -1_666 1_555 121.720(6) n
+C2 C3 C6 1_555 1_555 118.819(7) n
+C1 C4 D7 1_555 1_555 112.335(8) n
+C1 C4 D8 1_555 1_555 112.697(6) n
+C1 C4 D9 1_555 1_555 109.593(8) n
+D7 C4 D8 1_555 1_555 104.810(8) n
+D7 C4 D9 1_555 1_555 108.776(7) n
+D8 C4 D9 1_555 1_555 108.429(8) n
+C2 C5 D10 1_555 1_555 114.523(8) n
+C2 C5 D11 1_555 1_555 111.290(7) n
+C2 C5 D12 1_555 1_555 109.422(8) n
+D10 C5 D11 1_555 1_555 105.380(9) n
+D10 C5 D12 1_555 1_555 111.257(8) n
+D11 C5 D12 1_555 1_555 104.455(8) n
+C3 C6 D13 1_555 1_555 111.416(7) n
+C3 C6 D14 1_555 1_555 109.484(8) n
+C3 C6 D15 1_555 1_555 111.610(7) n
+D13 C6 D14 1_555 1_555 107.728(9) n
+D13 C6 D15 1_555 1_555 110.093(7) n
+D14 C6 D15 1_555 1_555 106.304(9) n
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+C1 C2 . 1_555 1.40630(14) n
+C1 C3 . -1_666 1.37805(13) n
+C1 C4 . 1_555 1.51802(15) n
+C2 C1 . 1_555 1.40630(14) n
+C2 C3 . 1_555 1.40878(13) n
+C2 C5 . 1_555 1.51727(15) n
+C3 C1 . -1_666 1.37805(13) n
+C3 C2 . 1_555 1.40878(13) n
+C3 C6 . 1_555 1.53668(15) n
+C4 C1 . 1_555 1.51802(15) n
+C4 D7 . 1_555 1.06461(9) n
+C4 D8 . 1_555 1.06930(10) n
+C4 D9 . 1_555 1.04612(11) n
+C5 C2 . 1_555 1.51727(15) n
+C5 D10 . 1_555 1.06671(8) n
+C5 D11 . 1_555 1.06746(9) n
+C5 D12 . 1_555 1.05535(11) n
+C6 C3 . 1_555 1.53668(15) n
+C6 D13 . 1_555 1.07849(10) n
+C6 D14 . 1_555 1.08886(9) n
+C6 D15 . 1_555 1.10233(11) n
+D7 C4 . 1_555 1.06461(9) n
+D7 D8 . 1_555 1.69079(16) n
+D7 D9 . 1_555 1.71600(15) n
+D8 C4 . 1_555 1.06930(10) n
+D8 D7 . 1_555 1.69079(16) n
+D8 D9 . 1_555 1.71610(18) n
+D9 C4 . 1_555 1.04612(11) n
+D9 D7 . 1_555 1.71600(15) n
+D9 D8 . 1_555 1.71610(18) n
+D10 C5 . 1_555 1.06671(8) n
+D10 D11 . 1_555 1.69745(17) n
+D10 D12 . 1_555 1.75154(15) n
+D11 C5 . 1_555 1.06746(9) n
+D11 D10 . 1_555 1.69745(17) n
+D11 D12 . 1_555 1.67799(15) n
+D12 C5 . 1_555 1.05535(11) n
+D12 D10 . 1_555 1.75154(15) n
+D12 D11 . 1_555 1.67799(15) n
+D13 C6 . 1_555 1.07849(10) n
+D13 D14 . 1_555 1.75041(17) n
+D13 D15 . 1_555 1.78748(17) n
+D14 C6 . 1_555 1.08886(9) n
+D14 D13 . 1_555 1.75041(17) n
+D14 D15 . 1_555 1.75348(18) n
+D15 C6 . 1_555 1.10233(11) n
+D15 D13 . 1_555 1.78748(17) n
+D15 D14 . 1_555 1.75348(18) n
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 6914134

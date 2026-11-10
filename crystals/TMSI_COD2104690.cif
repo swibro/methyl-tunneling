@@ -1,0 +1,249 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-20 02:53:41 +0200 (Sat, 20 Feb 2016) $
+#$Revision: 176768 $
+#$URL: file:///home/coder/svn-repositories/_RELOADED_COD/cod-reloaded/cif/2/10/46/2104690.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2104690
+loop_
+_publ_author_name
+'Wolf, Alexandra K.'
+'Glinnemann, J\"urgen'
+'Fink, Lothar'
+'Alig, Edith'
+'Bolte, Michael'
+'Schmidt, Martin U.'
+_publ_section_title
+;
+ Predicted crystal structures of tetramethylsilane and
+ tetramethylgermane and an experimental low-temperature structure of
+ tetramethylsilane
+;
+_journal_coeditor_code           OG5040
+_journal_issue                   2
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              229
+_journal_page_last               236
+_journal_paper_doi               10.1107/S0108768110003423
+_journal_volume                  66
+_journal_year                    2010
+_chemical_formula_moiety         'C4 H12 Si1'
+_chemical_formula_sum            'C4 H12 Si'
+_chemical_formula_weight         88.23
+_chemical_melting_point          174
+_chemical_name_common            Tetramethylsilane
+_chemical_name_systematic        ?
+_space_group_IT_number           62
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           SHELXL-97
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            4
+_cell_length_a                   13.131(3)
+_cell_length_b                   8.198(3)
+_cell_length_c                   6.3290(10)
+_cell_measurement_reflns_used    1789
+_cell_measurement_temperature    100(2)
+_cell_measurement_theta_max      25.6
+_cell_measurement_theta_min      3.6
+_cell_volume                     681.3(3)
+_computing_cell_refinement       'X-Area (Stoe & Cie, 2001)'
+_computing_data_collection       'X-Area (Stoe & Cie, 2001)'
+_computing_data_reduction        'X-Area (Stoe & Cie, 2001)'
+_computing_molecular_graphics    'XP in SHELXTL-Plus (Sheldrick, 1991)'
+_computing_publication_material  SHELXL97
+_computing_structure_refinement  'SHELXL97 (Sheldrick, 2008) '
+_computing_structure_solution    'SHELXS97 (Sheldrick, 2008) '
+_diffrn_ambient_temperature      100(2)
+_diffrn_measured_fraction_theta_full 0.980
+_diffrn_measured_fraction_theta_max 0.980
+_diffrn_measurement_device_type  'STOE IPDS II two-circle-diffractometer'
+_diffrn_measurement_method       \w
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'fine-focus sealed tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.1426
+_diffrn_reflns_av_sigmaI/netI    0.1318
+_diffrn_reflns_limit_h_max       11
+_diffrn_reflns_limit_h_min       -15
+_diffrn_reflns_limit_k_max       8
+_diffrn_reflns_limit_k_min       -9
+_diffrn_reflns_limit_l_max       6
+_diffrn_reflns_limit_l_min       -7
+_diffrn_reflns_number            1818
+_diffrn_reflns_theta_full        25.00
+_diffrn_reflns_theta_max         25.01
+_diffrn_reflns_theta_min         3.57
+_diffrn_standards_number         0
+_exptl_absorpt_coefficient_mu    0.213
+_exptl_absorpt_correction_T_max  0.9195
+_exptl_absorpt_correction_T_min  0.9195
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   'MULABS (Spek, 2003; Blessing, 1995)'
+_exptl_crystal_colour            colourless
+_exptl_crystal_density_diffrn    0.860
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       block
+_exptl_crystal_F_000             200
+_exptl_crystal_size_max          0.40
+_exptl_crystal_size_mid          0.40
+_exptl_crystal_size_min          0.40
+_refine_diff_density_max         0.609
+_refine_diff_density_min         -0.688
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.214
+_refine_ls_hydrogen_treatment    constr
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     28
+_refine_ls_number_reflns         635
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.214
+_refine_ls_R_factor_all          0.1393
+_refine_ls_R_factor_gt           0.1229
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.2000P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.3357
+_refine_ls_wR_factor_ref         0.3547
+_reflns_number_gt                466
+_reflns_number_total             635
+_reflns_threshold_expression     I>2\s(I)
+_cod_data_source_file            og5040.cif
+_cod_data_source_block           I
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Orthorhombic' changed to 'orthorhombic'
+according to '/home/saulius/struct/CIF-dictionaries/cif_core.dic'
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius 
+;
+_cod_database_code               2104690
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x+1/2, -y, z+1/2'
+'-x, y+1/2, -z'
+'x+1/2, -y+1/2, -z+1/2'
+'-x, -y, -z'
+'x-1/2, y, -z-1/2'
+'x, -y-1/2, z'
+'-x-1/2, y-1/2, z-1/2'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_occupancy
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+Si Si1 0.34452(15) 0.2500 0.6446(3) 0.0466(11) Uani d S 1 . .
+C C1 0.4109(5) 0.4368(8) 0.7457(7) 0.0597(17) Uani d . 1 . .
+H H1A 0.4090 0.4373 0.9005 0.090 Uiso calc R 1 . .
+H H1B 0.3764 0.5343 0.6918 0.090 Uiso calc R 1 . .
+H H1C 0.4818 0.4364 0.6977 0.090 Uiso calc R 1 . .
+C C2 0.2095(6) 0.2500 0.7334(13) 0.058(2) Uani d S 1 . .
+H H2A 0.2070 0.2500 0.8882 0.087 Uiso calc SR 1 . .
+H H2B 0.1751 0.1524 0.6795 0.087 Uiso calc PR 0.50 . .
+H H2C 0.1751 0.3476 0.6795 0.087 Uiso calc PR 0.50 . .
+C C3 0.3484(6) 0.2500 0.3501(11) 0.057(2) Uani d S 1 . .
+H H3A 0.4194 0.2500 0.3025 0.086 Uiso calc SR 1 . .
+H H3B 0.3139 0.3476 0.2966 0.086 Uiso calc PR 0.50 . .
+H H3C 0.3139 0.1524 0.2966 0.086 Uiso calc PR 0.50 . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 0.0569(16) 0.0485(16) 0.0345(13) 0.000 0.0003(8) 0.000
+C1 0.067(4) 0.063(4) 0.049(3) -0.007(3) -0.002(3) -0.008(2)
+C2 0.062(5) 0.049(4) 0.063(4) 0.000 0.004(4) 0.000
+C3 0.082(6) 0.052(5) 0.037(4) 0.000 0.000(3) 0.000
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.0033 0.0016 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H 0.0000 0.0000 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Si Si 0.0817 0.0704 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle
+_geom_angle_publ_flag
+C2 Si1 C3 . . 109.1(4) ?
+C2 Si1 C1 . . 109.9(2) ?
+C3 Si1 C1 . . 109.2(2) ?
+C2 Si1 C1 . 7_565 109.9(2) ?
+C3 Si1 C1 . 7_565 109.2(2) ?
+C1 Si1 C1 . 7_565 109.6(4) ?
+Si1 C1 H1A . . 109.5 ?
+Si1 C1 H1B . . 109.5 ?
+H1A C1 H1B . . 109.5 ?
+Si1 C1 H1C . . 109.5 ?
+H1A C1 H1C . . 109.5 ?
+H1B C1 H1C . . 109.5 ?
+Si1 C2 H2A . . 109.5 ?
+Si1 C2 H2B . . 109.5 ?
+H2A C2 H2B . . 109.5 ?
+Si1 C2 H2C . . 109.5 ?
+H2A C2 H2C . . 109.5 ?
+H2B C2 H2C . . 109.5 ?
+Si1 C3 H3A . . 109.5 ?
+Si1 C3 H3B . . 109.5 ?
+H3A C3 H3B . . 109.5 ?
+Si1 C3 H3C . . 109.5 ?
+H3A C3 H3C . . 109.5 ?
+H3B C3 H3C . . 109.5 ?
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+Si1 C2 . 1.861(9) ?
+Si1 C3 . 1.864(7) ?
+Si1 C1 . 1.874(6) ?
+Si1 C1 7_565 1.874(6) ?
+C1 H1A . 0.9800 ?
+C1 H1B . 0.9800 ?
+C1 H1C . 0.9800 ?
+C2 H2A . 0.9800 ?
+C2 H2B . 0.9800 ?
+C2 H2C . 0.9800 ?
+C3 H3A . 0.9800 ?
+C3 H3B . 0.9800 ?
+C3 H3C . 0.9800 ?

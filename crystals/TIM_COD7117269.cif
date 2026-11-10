@@ -1,0 +1,359 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-22 01:24:23 +0300 (Fri, 22 Aug 2025) $
+#$Revision: 301857 $
+#$URL: file:///home/coder/svn-repositories/_RELOADED_COD/cod-reloaded/cif/7/11/72/7117269.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7117269
+loop_
+_publ_author_name
+'Viswanadha G. Saraswatula'
+'Binoy K. Saha'
+_publ_section_title
+;
+ A thermal expansion investigation of the melting point anomaly in
+ trihalomesitylenes
+;
+_journal_name_full               Chem.Commun.
+_journal_page_first              9829
+_journal_paper_doi               10.1039/C5cc03033A
+_journal_volume                  51
+_journal_year                    2015
+_chemical_formula_moiety         'C9 H9 I3'
+_chemical_formula_sum            'C9 H9 I3'
+_chemical_formula_weight         497.86
+_chemical_name_systematic
+;
+triiodomesitylene  
+;
+_space_group_crystal_system      triclinic
+_space_group_IT_number           2
+_space_group_name_Hall           '-P 1'
+_space_group_name_H-M_alt        'P -1'
+_symmetry_space_group_name_Hall  '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     iterative
+_atom_sites_solution_secondary   difmap
+_audit_creation_date             2013-08-18
+_audit_creation_method
+;
+  Olex2 1.2
+  (compiled Dec  5 2012 16:17:34, GUI svn.r4385)
+;
+_audit_update_record
+;
+2015-04-06 deposited with the CCDC.
+2015-05-07 downloaded from the CCDC.
+;
+_cell_angle_alpha                60.255(6)
+_cell_angle_beta                 66.670(6)
+_cell_angle_gamma                85.526(5)
+_cell_formula_units_Z            2
+_cell_length_a                   7.9189(5)
+_cell_length_b                   9.5531(6)
+_cell_length_c                   9.5594(6)
+_cell_measurement_reflns_used    2720
+_cell_measurement_temperature    118(2)
+_cell_measurement_theta_max      29.1839
+_cell_measurement_theta_min      4.4913
+_cell_volume                     570.15(8)
+_computing_cell_refinement
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.36.21 (release 14-08-2012 CrysAlis171 .NET)
+(compiled Sep 14 2012,17:21:16)
+;
+_computing_data_collection
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.36.21 (release 14-08-2012 CrysAlis171 .NET)
+(compiled Sep 14 2012,17:21:16)
+;
+_computing_data_reduction
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.36.21 (release 14-08-2012 CrysAlis171 .NET)
+(compiled Sep 14 2012,17:21:16)
+;
+_computing_molecular_graphics
+;
+O. V. Dolomanov, L. J. Bourhis, R. J. Gildea, J. A. K. Howard and H. Puschmann,
+OLEX2: a complete structure solution, refinement and analysis program.
+J. Appl. Cryst. (2009). 42, 339-341.
+;
+_computing_publication_material
+;
+O. V. Dolomanov, L. J. Bourhis, R. J. Gildea, J. A. K. Howard and H. Puschmann,
+OLEX2: a complete structure solution, refinement and analysis program.
+J. Appl. Cryst. (2009). 42, 339-341.
+;
+_computing_structure_refinement
+;
+SHELXL, G.M. Sheldrick, Acta Cryst.
+(2008). A64, 112-122
+;
+_computing_structure_solution    'SUPERFLIP, J. Appl. Cryst. (2007) 40, 786-790'
+_diffrn_ambient_temperature      118(2)
+_diffrn_detector_area_resol_mean 15.9821
+_diffrn_measured_fraction_theta_full 0.9935
+_diffrn_measured_fraction_theta_max 0.9394
+_diffrn_measurement_details
+;
+  1 omega  -21.00   11.00   1.0000    2.5000
+omega____ theta____ kappa____ phi______ frames
+    -      -17.4178  -99.0000   30.0000 32
+
+  2 omega  -25.00   21.00   1.0000    2.5000
+omega____ theta____ kappa____ phi______ frames
+    -      -17.4178  -99.0000 -150.0000 46
+
+  3 omega   -7.00   65.00   1.0000    2.5000
+omega____ theta____ kappa____ phi______ frames
+    -       19.1366   77.0000  -60.0000 72
+
+  4 omega   -6.00   89.00   1.0000    2.5000
+omega____ theta____ kappa____ phi______ frames
+    -       19.1366   37.0000 -150.0000 95
+
+  5 omega  -50.00   45.00   1.0000    2.5000
+omega____ theta____ kappa____ phi______ frames
+    -       19.1366  -37.0000   30.0000 95
+
+  6 omega   34.00   73.00   1.0000    2.5000
+omega____ theta____ kappa____ phi______ frames
+    -       19.1366   77.0000  -30.0000 39
+
+  7 omega  -94.00  -32.00   1.0000    2.5000
+omega____ theta____ kappa____ phi______ frames
+    -      -17.4178  178.0000  120.0000 62
+
+  8 omega   32.00   77.00   1.0000    2.5000
+omega____ theta____ kappa____ phi______ frames
+    -       19.1366 -178.0000   60.0000 45
+;
+_diffrn_measurement_device_type  'Xcalibur, Eos'
+_diffrn_measurement_method       '\w scans'
+_diffrn_orient_matrix_UB_11      0.0539826000
+_diffrn_orient_matrix_UB_12      0.0782334000
+_diffrn_orient_matrix_UB_13      -0.0628329000
+_diffrn_orient_matrix_UB_21      0.0401823000
+_diffrn_orient_matrix_UB_22      -0.0250426000
+_diffrn_orient_matrix_UB_23      -0.0632303000
+_diffrn_orient_matrix_UB_31      -0.0721214000
+_diffrn_orient_matrix_UB_32      0.0270276000
+_diffrn_orient_matrix_UB_33      -0.0292828000
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.7107
+_diffrn_reflns_av_R_equivalents  0.0285
+_diffrn_reflns_av_unetI/netI     0.0397
+_diffrn_reflns_limit_h_max       10
+_diffrn_reflns_limit_h_min       -10
+_diffrn_reflns_limit_k_max       13
+_diffrn_reflns_limit_k_min       -13
+_diffrn_reflns_limit_l_max       12
+_diffrn_reflns_limit_l_min       -12
+_diffrn_reflns_number            5431
+_diffrn_reflns_theta_full        25.00
+_diffrn_reflns_theta_max         29.25
+_diffrn_reflns_theta_min         4.50
+_diffrn_source                   'Enhance (Mo) X-ray Source'
+_exptl_absorpt_coefficient_mu    8.173
+_exptl_absorpt_correction_T_max  1.00000
+_exptl_absorpt_correction_T_min  0.42029
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.36.21 (release 14-08-2012 CrysAlis171 .NET)
+(compiled Sep 14 2012,17:21:16)
+Empirical absorption correction using spherical harmonics,
+ implemented in SCALE3 ABSPACK scaling algorithm.
+;
+_exptl_crystal_colour            colourless
+_exptl_crystal_colour_primary    colourless
+_exptl_crystal_density_diffrn    2.900
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       block
+_exptl_crystal_F_000             444
+_exptl_crystal_size_max          0.45
+_exptl_crystal_size_mid          0.4
+_exptl_crystal_size_min          0.3
+_refine_diff_density_max         1.031
+_refine_diff_density_min         -1.247
+_refine_diff_density_rms         0.198
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.103
+_refine_ls_hydrogen_treatment    mixed
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     112
+_refine_ls_number_reflns         2614
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.103
+_refine_ls_R_factor_all          0.0355
+_refine_ls_R_factor_gt           0.0301
+_refine_ls_shift/su_max          0.001
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0260P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.0625
+_refine_ls_wR_factor_ref         0.0642
+_reflns_number_gt                2361
+_reflns_number_total             2614
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            c5cc03033a2.cif
+_cod_data_source_block           tim-118K
+_cod_original_cell_volume        570.14(6)
+_cod_database_code               7117269
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, y, z'
+2 '-x, -y, -z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+I2 I 0.25948(5) 0.85296(4) 0.22956(4) 0.01648(10) Uani 1 1 d . . .
+I1 I 0.20495(5) 0.30044(4) 0.94047(4) 0.01730(10) Uani 1 1 d . . .
+I3 I 0.28422(5) 0.16362(4) 0.36583(5) 0.01945(10) Uani 1 1 d . . .
+C6 C 0.2510(6) 0.2709(6) 0.6250(7) 0.0134(10) Uani 1 1 d . . .
+C8 C 0.2787(7) 0.5575(7) 0.1544(7) 0.0181(11) Uani 1 1 d . . .
+H8A H 0.1841 0.6282 0.1343 0.027 Uiso 1 1 calc R . .
+H8B H 0.2574 0.4640 0.1440 0.027 Uiso 1 1 calc R . .
+H8C H 0.4024 0.6190 0.0662 0.027 Uiso 1 1 calc R . .
+C2 C 0.2398(7) 0.5533(6) 0.5702(7) 0.0147(10) Uani 1 1 d . . .
+C3 C 0.2536(6) 0.6023(6) 0.4011(6) 0.0125(10) Uani 1 1 d . . .
+C9 C 0.2492(8) 0.0945(6) 0.7439(7) 0.0212(12) Uani 1 1 d . . .
+H9A H 0.2859 0.0816 0.8359 0.032 Uiso 1 1 calc R . .
+H9B H 0.3369 0.0506 0.6748 0.032 Uiso 1 1 calc R . .
+H9C H 0.1238 0.0354 0.7993 0.032 Uiso 1 1 calc R . .
+C7 C 0.2255(8) 0.6710(7) 0.6337(7) 0.0202(12) Uani 1 1 d . . .
+H7A H 0.3503 0.7247 0.5918 0.030 Uiso 1 1 calc R . .
+H7B H 0.1670 0.6120 0.7633 0.030 Uiso 1 1 calc R . .
+H7C H 0.1501 0.7532 0.5876 0.030 Uiso 1 1 calc R . .
+C4 C 0.2666(6) 0.4979(6) 0.3365(6) 0.0131(10) Uani 1 1 d . . .
+C1 C 0.2357(6) 0.3856(6) 0.6783(6) 0.0137(10) Uani 1 1 d . . .
+C5 C 0.2666(6) 0.3324(6) 0.4519(6) 0.0127(10) Uani 1 1 d . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+I2 0.02573(18) 0.00836(16) 0.01293(18) -0.00318(14) -0.00874(14) 0.00253(14)
+I1 0.02788(18) 0.01578(18) 0.01051(18) -0.00667(15) -0.01043(14) 0.00566(15)
+I3 0.0345(2) 0.01362(18) 0.0181(2) -0.01119(16) -0.01450(16) 0.00695(16)
+C6 0.016(2) 0.011(3) 0.013(3) -0.006(2) -0.006(2) 0.003(2)
+C8 0.025(3) 0.019(3) 0.010(3) -0.007(2) -0.009(2) 0.003(2)
+C2 0.018(2) 0.012(3) 0.013(3) -0.006(2) -0.005(2) 0.002(2)
+C3 0.014(2) 0.009(2) 0.009(2) -0.001(2) -0.0044(19) 0.002(2)
+C9 0.037(3) 0.010(3) 0.020(3) -0.006(2) -0.017(3) 0.005(3)
+C7 0.037(3) 0.017(3) 0.016(3) -0.011(2) -0.016(3) 0.009(3)
+C4 0.017(2) 0.014(3) 0.009(3) -0.006(2) -0.006(2) 0.000(2)
+C1 0.015(2) 0.017(3) 0.007(3) -0.004(2) -0.005(2) 0.002(2)
+C5 0.015(2) 0.012(2) 0.012(3) -0.007(2) -0.005(2) 0.003(2)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.0033 0.0016 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H 0.0000 0.0000 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+I I -0.4742 1.8119 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+C1 C6 C9 122.3(4) . .
+C1 C6 C5 115.7(4) . .
+C5 C6 C9 122.0(4) . .
+H8A C8 H8B 109.5 . .
+H8A C8 H8C 109.5 . .
+H8B C8 H8C 109.5 . .
+C4 C8 H8A 109.5 . .
+C4 C8 H8B 109.5 . .
+C4 C8 H8C 109.5 . .
+C3 C2 C7 122.4(4) . .
+C3 C2 C1 115.5(4) . .
+C1 C2 C7 122.1(4) . .
+C2 C3 I2 118.1(3) . .
+C4 C3 I2 117.4(3) . .
+C4 C3 C2 124.5(4) . .
+C6 C9 H9A 109.5 . .
+C6 C9 H9B 109.5 . .
+C6 C9 H9C 109.5 . .
+H9A C9 H9B 109.5 . .
+H9A C9 H9C 109.5 . .
+H9B C9 H9C 109.5 . .
+C2 C7 H7A 109.5 . .
+C2 C7 H7B 109.5 . .
+C2 C7 H7C 109.5 . .
+H7A C7 H7B 109.5 . .
+H7A C7 H7C 109.5 . .
+H7B C7 H7C 109.5 . .
+C3 C4 C8 122.0(5) . .
+C3 C4 C5 116.3(4) . .
+C5 C4 C8 121.7(4) . .
+C6 C1 I1 117.8(4) . .
+C6 C1 C2 124.4(4) . .
+C2 C1 I1 117.7(3) . .
+C6 C5 I3 117.4(4) . .
+C6 C5 C4 123.5(4) . .
+C4 C5 I3 119.0(3) . .
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+I2 C3 2.118(5) .
+I1 C1 2.128(5) .
+I3 C5 2.118(5) .
+C6 C9 1.490(7) .
+C6 C1 1.400(7) .
+C6 C5 1.408(7) .
+C8 H8A 0.9800 .
+C8 H8B 0.9800 .
+C8 H8C 0.9800 .
+C8 C4 1.502(7) .
+C2 C3 1.400(7) .
+C2 C7 1.500(7) .
+C2 C1 1.406(7) .
+C3 C4 1.389(7) .
+C9 H9A 0.9800 .
+C9 H9B 0.9800 .
+C9 H9C 0.9800 .
+C7 H7A 0.9800 .
+C7 H7B 0.9800 .
+C7 H7C 0.9800 .
+C4 C5 1.410(7) .
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 635613

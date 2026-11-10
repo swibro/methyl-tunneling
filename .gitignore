@@ -1,0 +1,22 @@
+__pycache__/
+.DS_Store
+~$*
+*.sw[a-p]
+.*.sw[a-p]
+.*.un~
+*~
+
+# private notes / writeup (kept local, not published)
+CLAUDE.md
+CHANGELOG.md
+README-priv.md
+README.md
+writeup/
+
+# generated outputs (model result dirs ignore themselves via their own .gitignore)
+*.out
+*.wfn
+*.wfn.bak-*
+*.pos
+tunneling/splittings.csv
+tunneling/splittings.json

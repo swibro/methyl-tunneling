@@ -1,0 +1,78 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-19 13:01:59 +0300 (Tue, 19 Aug 2025) $
+#$Revision: 301802 $
+#$URL: file:///home/coder/svn-repositories/_RELOADED_COD/cod-reloaded/cif/2/10/15/2101599.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2101599
+loop_
+_publ_author_name
+'Ibberson, R. M.'
+'Prager, M.'
+_publ_section_title
+;
+ The <i>ab initio</i> crystal structure determination of
+ vapour-deposited methyl fluoride by high-resolution neutron powder
+ diffraction
+;
+_journal_issue                   5
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              892
+_journal_page_last               895
+_journal_paper_doi               10.1107/S010876819600599X
+_journal_volume                  52
+_journal_year                    1996
+_chemical_formula_sum            'C D3 F'
+_space_group_IT_number           14
+_space_group_name_Hall           '-P 2yn'
+_space_group_name_H-M_alt        'P 1 21/n 1'
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_Hall  '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha                90.0
+_cell_angle_beta                 101.8420(10)
+_cell_angle_gamma                90.0
+_cell_formula_units_Z            4
+_cell_length_a                   6.43730(10)
+_cell_length_b                   7.50230(10)
+_cell_length_c                   3.9598(2)
+_cell_volume                     187.167(10)
+_diffrn_radiation_probe          neutron
+_diffrn_radiation_type           neutron
+_exptl_crystal_density_diffrn    1.313
+_cod_data_source_file            an0529.cif
+_cod_data_source_block           an0529a
+_cod_original_cell_volume        187.16
+_cod_original_formula_sum        'C1 D3 F1'
+_cod_database_code               2101599
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x+1/2,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x+1/2,-y+1/2,z+1/2
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+C .7310(4) .15010(10) .8553(7) .0090(10)
+F .6923(4) .3103(3) 1.0125(6) .0020(10)
+D(1) .8495(6) .1714(5) .7024(8) .0240(10)
+D(2) .5876(6) .0987(6) .7026(9) .0360(10)
+D(3) .7914(6) .0594(4) 1.0590(7) .0190(10)
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 136358

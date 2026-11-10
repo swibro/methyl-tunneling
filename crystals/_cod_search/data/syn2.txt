@@ -1,0 +1,24 @@
+PBAC 4348338 - C4 H6 O4 Pb - | 'Lead(II) acetate. beta polymorph ' | Lead(II) acetate. polymor | T= 348 P= None | has coordinates | Unraveling the Decomposition Process of Lead(II) Acetate: An
+OXY 6000130 - C8 D10 - |  |  | T= 4.5 P= None |  | The crystal structures of m-xylene and p-xylene, C8D10, at 4
+OXY 6000131 - C8 D10 - |  |  | T= 4.5 P= None |  | The crystal structures of m-xylene and p-xylene, C8D10, at 4
+MXY 6000130 - C8 D10 - |  |  | T= 4.5 P= None |  | The crystal structures of m-xylene and p-xylene, C8D10, at 4
+MXY 6000131 - C8 D10 - |  |  | T= 4.5 P= None |  | The crystal structures of m-xylene and p-xylene, C8D10, at 4
+PXY 6000130 - C8 D10 - |  |  | T= 4.5 P= None |  | The crystal structures of m-xylene and p-xylene, C8D10, at 4
+PXY 6000131 - C8 D10 - |  |  | T= 4.5 P= None |  | The crystal structures of m-xylene and p-xylene, C8D10, at 4
+MECL 7216469 - C H3 Cl - | chloromethane | methyl chloride | T= 295 P= 1220000 | has coordinates | Halogen∙∙∙halogen contra C−H∙∙∙halogen
+MECL 7216470 - C H3 Cl - | chloromethane | methyl chloride | T= 295 P= 1690000 | has coordinates | Halogen∙∙∙halogen contra C−H∙∙∙halogen
+MECL 7216471 - C H3 Cl - | chloromethane | methyl chloride | T= 295 P= 2910000 | has coordinates | Halogen∙∙∙halogen contra C−H∙∙∙halogen
+MECL 7216472 - C H3 Cl - | chloromethane | methyl chloride | T= 295 P= 4380000 | has coordinates | Halogen∙∙∙halogen contra C−H∙∙∙halogen
+DMAC 2101248 - C4 D6 - |  |  | T= None P= None | has coordinates | The <i>Ab initio</i> crystal-structure determination of perd
+TMSI 2104690 - C4 H12 Si - |  | Tetramethylsilane | T= 100 P= None | has coordinates | Predicted crystal structures of tetramethylsilane and tetram
+TMSI 4503063 - C4 H12 Si - | tetramethylsilane |  | T= 293 P= None | has coordinates | The Interplay of Molecular Conformation and Crystal Packing 
+ACE 5000049 - C3 H6 O - | Acetone |  | T= 113 P= None | has coordinates | 
+ACE 7110462 - C3 H6 O - |  |  | T= 293 P= None | has coordinates,has disorder | The influence of pressure and temperature on the crystal str
+ACE 7110463 - C3 H6 O - |  |  | T= 160 P= None | has coordinates | The influence of pressure and temperature on the crystal str
+ACE 7110464 - C3 H6 O - |  |  | T= 150 P= None | has coordinates | The influence of pressure and temperature on the crystal str
+ACE 7110465 - C3 D6 O - | Acetone-d6 |  | T= 5 P= None | has coordinates | The influence of pressure and temperature on the crystal str
+ACE 7110466 - C3 H6 O - |  |  | T= 150 P= None | has coordinates | The influence of pressure and temperature on the crystal str
+MMA 5900037 - C4 H6 O4 - | Methylmalonic acid of form alpha |  | T= 408 P= None | has coordinates | The crystal structure of α-succinic acid
+MMA 5900038 - C4 H6 O4 - | Methylmalonic acid of form beta |  | T= 293 P= None | has coordinates | The crystal and molecular structure of certain dicarboxylic 
+PRA 5000204 - C3 H6 O2 - |  |  | T= None P= None | has coordinates | The crystal structure of propionic acid
+DONE

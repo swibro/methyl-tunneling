@@ -1,0 +1,105 @@
+crystal_id,compound,priority,formula,prager_sg,scope
+PHA,Phenylacetone,C,C9 H10 O,,In
+NME,Nitromethane,A,C H3 N O2,P212121,In
+MEOH-HQ,Methanol-d3 in hydroquinone clathrate,D,C19 H22 O7,,In
+HEX,Hexane,C,C6 H14,,In
+HEP,Heptane,C,C7 H16,,In
+OCT,Octane,C,C8 H18,,In
+NON,Nonane,C,C9 H20,,In
+TRD,Tridecane,C,C13 H28,,In
+TTD,Tetradecane,C,C14 H30,,In
+PTD,Pentadecane,C,C15 H32,,In
+HXD,Hexadecane,C,C16 H34,,In
+HPD,Heptadecane,C,C17 H36,,In
+OCD,Octadecane,C,C18 H38,,In
+CLPR,2-Chloropropane,C,C3 H7 Cl,,In
+HXDY,"2,4-Hexadiyne",B,C6 H6,,In
+MBUT,2-Methyl-2-butene,A,C5 H10,,In
+BUT2,2-Butanone (methyl ethyl ketone),C,C4 H8 O,,In
+PEN2,2-Pentanone,B,C5 H10 O,,In
+PEN3,3-Pentanone,C,C5 H10 O,,In
+HEX2,2-Hexanone,C,C6 H12 O,,In
+HEX3,3-Hexanone,C,C6 H12 O,,In
+HEP2,2-Heptanone,C,C7 H14 O,,In
+HEP3,3-Heptanone,C,C7 H14 O,,In
+HEP4,4-Heptanone,C,C7 H14 O,,In
+OCT2,2-Octanone,C,C8 H16 O,,In
+OCT3,3-Octanone,C,C8 H16 O,,In
+NON2,2-Nonanone,C,C9 H18 O,,In
+NON3,3-Nonanone,C,C9 H18 O,,In
+NON5,5-Nonanone,C,C9 H18 O,,In
+DEC2,2-Decanone,C,C10 H20 O,,In
+UND2,2-Undecanone,C,C11 H22 O,,In
+DOD2,2-Dodecanone,C,C12 H24 O,,In
+TRD2,2-Tridecanone,C,C13 H26 O,,In
+HXD2,2-Hexadecanone,C,C16 H32 O,,In
+NND2,2-Nonadecanone,C,C19 H38 O,,In
+ACAC,Acetylacetone,D,C5 H8 O2,,In
+ACNA,"2,5-Hexanedione (acetonylacetone)",C,C6 H10 O2,,In
+DMS,Dimethyl sulfide,D,C2 H6 S,,In
+TAN,Thioanisole,C,C7 H8 S,,In
+OCTE,Dioctyl ether,C,C16 H34 O,,In
+OCTS,Dioctyl sulfide,C,C16 H34 S,,In
+DPS,Dipropyl sulfide,C,C6 H14 S,,In
+TAA,4-Tolylacetic acid,B,C9 H10 O2,,In
+DMMA,Dimethylmalonic acid,C,C5 H8 O4,,In
+TIG,Tiglic acid,A,C5 H8 O2,,In
+PBAC,Lead(II) acetate trihydrate,A,C4 H12 O7 Pb,,In
+NH4AC,Ammonium acetate,A,C2 H7 N O2,,In
+KAC,Potassium acetate,C,C2 H3 K O2,,In
+NAAC3,Sodium acetate trihydrate,A,C2 H9 Na O5,,In
+MGAC,Magnesium acetate tetrahydrate,B,C4 H14 Mg O8,,In
+CDAC,Cadmium acetate,C,C4 H6 Cd O4,,In
+COAC-D,Cobalt acetate-d3 (as printed),,,,Check
+ZNAA,Zinc acetyl acetate (as printed),,,,Check
+MEAC,Methyl acetate,A,C3 H6 O2,P21/n,In
+SCAC,Scandium acetate,B,C6 H9 O6 Sc,,In
+HGAC,Mercury(II) acetate,C,C4 H6 Hg O4,,In
+NIACAC,[Ni(OCH3)(acac)(CH3OH)]4,D,C28 H56 Ni4 O16,,In
+ACF,Acetyl fluoride,C,C2 H3 F O,,In
+ACCL,Acetyl chloride,C,C2 H3 Cl O,,In
+ACBR,Acetyl bromide,C,C2 H3 Br O,,In
+MIC,Methyl isocyanate,C,C2 H3 N O,,In
+CR3CL,[Cr3O(OAc)6(H2O)3]Cl.5H2O,D,C12 H34 Cl Cr3 O21,,In
+CR3CLO4,[Cr3O(OAc)6(H2O)3]ClO4.5H2O,D,C12 H34 Cl Cr3 O25,,In
+BT2,2-Bromotoluene,C,C7 H7 Br,,In
+IT4,4-Iodotoluene,A,C7 H7 I,,In
+DCT26,"2,6-Dichlorotoluene",A,C7 H6 Cl2,,In
+DBT26,"2,6-Dibromotoluene",C,C7 H6 Br2,,In
+OXY,o-Xylene,C,C8 H10,,In
+PXY,p-Xylene,A,C8 H10,P21/n,In
+PXY-CALIX,p-Xylene in p-tert-butylcalix[4]arene (2:1 host:guest),D,C96 H122 O8,,In
+MXY,m-Xylene,B,C8 H10,,In
+DUR,Durene,C,C10 H14,,In
+PMB,Pentamethylbenzene,B,C11 H16,,In
+DCTMB,"1,3-Dichloro-2,4,6-trimethylbenzene",B,C9 H10 Cl2,monoclinic,In
+TQ,Toluquinone,C,C7 H6 O2,,In
+MDBP,"4-Methyl-2,6-di-tert-butylphenol",A,C15 H24 O,,In
+MPY4,4-Methylpyridine (gamma-picoline),D,C6 H7 N,,In
+ZNMPY,Bis(4-methylpyridine)zinc chloride,A,C12 H14 Cl2 N2 Zn,P21/n,In
+MNMPY,Bis(4-methylpyridine)manganese chloride,D,C12 H14 Cl2 Mn N2,,In
+COMPY,Bis(4-methylpyridine)cobalt chloride,D,C12 H14 Cl2 Co N2,,In
+TDZ,"2,5-Dimethyl-1,3,4-thiadiazole",C,C4 H6 N2 S,,In
+MIM,1-Methylimidazole,C,C4 H6 N2,,In
+MISX,5-Methylisoxazole,C,C4 H5 N O,,In
+MPZ3,3-Methylpyrazole,C,C4 H6 N2,,In
+MFU3,3-Methylfuran,C,C5 H6 O,,In
+MTH3,3-Methylthiophene,C,C5 H6 S,,In
+MTH2,2-Methylthiophene,C,C5 H6 S,,In
+TMPZ,Tetramethylpyrazine,C,C8 H12 N2,,In
+TMSN,Tetramethyltin,A,C4 H12 Sn,Pa-3,In
+TMGE,Tetramethylgermanium,A,C4 H12 Ge,,In
+HMDT,Hexamethylditin,D,C6 H18 Sn2,Pnm21,In
+TMSNCL,Trimethyltin chloride,B,C3 H9 Cl Sn,I2/c,In
+TMSNBR,Trimethyltin bromide,A,C3 H9 Br Sn,,In
+TMPBCL,Trimethyllead chloride,A,C3 H9 Cl Pb,C2,In
+DMSNF2,Dimethyltin difluoride,A,C2 H6 F2 Sn,I4/mmm,In
+DMSNCL2,Dimethyltin dichloride,D,C2 H6 Cl2 Sn,Imma,In
+DMSNBR2,Dimethyltin dibromide,A,C2 H6 Br2 Sn,,In
+MSNBR3,Methyltin tribromide,A,C H3 Br3 Sn,,In
+TMSNSO4,Bis(trimethyltin) sulfate dihydrate,A,C6 H22 O6 S Sn2,Pbcn,In
+TMSNSEO4,Bis(trimethyltin) selenate dihydrate,A,C6 H22 O6 Se Sn2,Pbcn,In
+TMDSB,Tetramethyldistibine,B,C4 H12 Sb2,Pnma,In
+TMDBI,Tetramethyldibismuthine,B,C4 H12 Bi2,,In
+TMSBPF6,Tetramethylstibonium hexafluorophosphate,B,C4 H12 F6 P Sb,,In
+TMNI,Tetramethylnickel dicyanate (as printed),,,,Check

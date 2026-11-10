@@ -1,0 +1,53 @@
+crystal_id,compound,priority,cod_id,file,quality,T_K,P_GPa,space_group,prager_sg,R_obs,radiation,formula,year,doi,note,alternatives_cod
+TOL,Toluene,A,7238224,TOL_COD7238224.cif,good,150,,P 1 21/c 1,P21/c,0.0439,MoKα,C7 H8,2010,10.1039/c001190h,"alpha phase P21/c, 150 K",
+MEF,Methyl fluoride,A,2101599,MEF_COD2101599.cif,caveat,,,P 1 21/n 1,P21/c,,neutron,C D3 F,1996,10.1107/S010876819600599X,"CD3F, neutron powder (Ibberson & Prager 1996); T not in CIF, low-T vapour-deposited sample - check paper",
+MECL,Methyl chloride,B,7216469,MECL_COD7216469.cif,caveat,295,1.22,C m c 21,,0.0302,MoKα,C H3 Cl,2014,10.1039/c4ce00241e,"only high-pressure data (1.22 GPa, 295 K); Cmc21 = the low-T ambient phase; relax cell at 0 GPa",7216470-7216472 (higher P)
+MEBR,Methyl bromide,A,7216473,MEBR_COD7216473.cif,caveat,295,1.11,P n m a,Pnma,0.0253,MoKα,C H3 Br,2014,10.1039/c4ce00241e,"only high-pressure data (1.11 GPa, 295 K); Pnma matches Prager; methyl H disordered",7216474 (1.5 GPa)
+MEI,Methyl iodide,A,7201032,MEI_COD7201032.cif,caveat,295,0.53,P n m a,Pnma,0.0247,MoKα,C H3 I,2009,10.1039/b903526e,"same structure as ../methyl-iodide.cif: 0.53 GPa, 295 K, methyl H disordered","7201033, 7201034 (higher P)"
+IET,Iodoethane,C,2109086,IET_COD2109086.cif,good,100,,P 1 21/n 1,,0.011,MoKα,C2 H5 I,2022,10.1107/S2052520622010149,100 K ambient,"2109085 (120 K), 2109084 (140 K)"
+DEC,Decane,C,2200853,DEC_COD2200853.cif,good,150,,P -1,,0.0541,MoKα,C10 H22,2002,10.1107/S1600536802001332,150 K,
+UND,Undecane,C,7247707,UND_COD7247707.cif,caveat,295,0.17,P -1,,0.0539,synchrotron,C11 H24,2023,10.1039/D3RA06957E,"pressure-frozen, 0.17 GPa, 295 K; P-1 (ambient low-T phase of odd n-alkanes is orthorhombic - check)",
+DOD,Dodecane,C,7247706,DOD_COD7247706.cif,caveat,295,0.15,P -1,,0.0662,synchrotron,C12 H26,2023,10.1039/D3RA06957E,"pressure-frozen, 0.15 GPa, 295 K; P-1",
+DMAC,2-Butyne (dimethylacetylene),A,2101248,DMAC_COD2101248.cif,caveat,,,C 1 2/m 1,,,Mo,C4 D6,1995,10.1107/S0108768194006233,"C4D6, neutron powder (Ibberson & Prager 1995); T not in CIF - check paper",
+ACE,Acetone,C,7110465,ACE_COD7110465.cif,good,5,,P b c a,,,Neutron,C3 D6 O,1999,10.1039/a900558g,"acetone-d6, 5 K neutron, Pbca","7110464 (150 K X-ray, Pbca)"
+DIAC,"2,3-Butanedione (diacetyl)",C,5000194,DIAC_COD5000194.cif,caveat,,,P 1 21/n 1,P21/n,,,C4 H6 O2,1983,10.1021/ja00350a032,"1983 X-ray; paper reports -12 and -100 C, T not in CIF; P21/n matches Prager",
+PBO,trans-4-Phenyl-3-buten-2-one,C,2009336,PBO_COD2009336.cif,good,173,,P b c a,,0.0411,MoKα,C10 H10 O,1999,10.1107/S0108270199098236,173 K,
+ACP,Acetophenone,C,5000166,ACP_COD5000166.cif,good,,,P 1 21/n 1,P21/n,,,C8 H8 O,1973,10.1107/S0567740873005583,"154 K (from title), P21/n matches Prager",
+DME,Dimethyl ether,C,1570433,DME_COD1570433.cif,weak,295,3.3,P 1 21/c 1,,0.0708,MoKα,C2 H6 O,2024,10.1107/S2052252523009995,"only high-pressure data (3.3 GPa, 295 K)",1570434-1570438 (higher P)
+DPE,Dipropyl ether,C,1570448,DPE_COD1570448.cif,weak,295,1.7,P 1 21/c 1,,0.0455,MoKα,C6 H14 O,2024,10.1107/S2052252523009995,"only high-pressure data (1.7 GPa, 295 K)",1570449-1570452 (higher P)
+ACA,Acetic acid,B,2008187,ACA_COD2008187.cif,good,40,,P n a 21,,0.0397,MoKα,C2 H4 O2,1999,10.1107/S0108270199099862,40 K,2300042 (293 K)
+PRA,Propionic acid,D,5000204,PRA_COD5000204.cif,caveat,,,P 1 21/c 1,,,,C3 H6 O2,1962,10.1107/S0365110X62003278,1962 X-ray (Strieter & Templeton); T not in CIF,
+ASP,Aspirin,A,7050900,ASP_COD7050900.cif,good,20,,P 1 21/c 1,,,,C9 H8 O4,2002,10.1039/b203775k,"20 K, form I",7050903 (60 K)
+MMA,Methylmalonic acid,C,5900038,MMA_COD5900038.cif,weak,293,,P 1 21/c 1,,,,C4 H6 O4,1949,10.1039/JR9490000980,"1949 room-T, no H atoms in CIF - H must be added",
+TOL3A,3-Toluic acid,B,2229512,TOL3A_COD2229512.cif,caveat,123,,P 1 21/c 1,,0.045,MoKα,C8 H8 O2,2011,10.1107/S1600536811003849,123 K; partially occupied (disordered) sites,
+TOL4A,4-Toluic acid,B,4500433,TOL4A_COD4500433.cif,good,100,,P -1,,0.021,MoKα,C8 H8 O2,2011,10.1021/cg101540y,100 K,7233576 (100 K)
+LIAC,Lithium acetate dihydrate,D,4500141,LIAC_COD4500141.cif,caveat,100,,C m m m,,0.0354,Synchrotron,C2 H7 Li O4,2011,10.1021/cg1010133,100 K; partially occupied sites,
+MNAC,Manganese(II) acetate tetrahydrate,D,2103558,MNAC_COD2103558.cif,good,14,,P 1 21/c 1,P21/c,0.0407,Neutron,C4 H6 D8 Mn O8,2001,10.1107/S0108768100014695,"14 K neutron (D2O-deuterated water), P21/c matches Prager",2103559 (300 K)
+NAAC,Sodium acetate (anhydrous),C,1549467,NAAC_COD1549467.cif,caveat,100,,P c c a,,0.029,MoKα,C2 H3 Na O2,2018,10.3390/cryst8050213,"100 K, Pcca; polymorph measured by P&H unknown","1549468 (P4/nmm, 100 K), 6000208 (beta, no coordinates)"
+ZNAC,Zinc acetate dihydrate,A,2006420,ZNAC_COD2006420.cif,good,19,,C 1 2/c 1,,0.06,CuKα,C4 H10 O6 Zn,1997,10.1107/S0108270197004484,data at 19 K (cell at 292 K),2016971 (110 K)
+NIAC,Nickel(II) acetate tetrahydrate,D,7037637,NIAC_COD7037637.cif,good,173,,P 1 21/c 1,,0.037,MoKα,C4 H14 Ni O8,2016,10.1039/c5dt04267d,173 K,
+CUAC,Copper(II) acetate monohydrate,D,2108330,CUAC_COD2108330.cif,good,100,,C 1 2/c 1,,0.019,MoKα,C8 H16 Cu2 O10,2018,10.1107/S2052520618013707,100 K,2202437 (293 K)
+COAC,Cobalt(II) acetate dihydrate,D,8101209,COAC_COD8101209.cif,caveat,173,,P 1 21/c 1,,,,C4 H10 Co O6,2000,,"173 K, catena dihydrate; check that it is the phase P&H measured","2202935 (tetrahydrate, 153 K)"
+MUR,Methylurea,C,7209247,MUR_COD7209247.cif,good,8,,P 21 21 21,,0.027,synchrotron,C2 H6 N2 O,2013,10.1039/c2ce26964c,8 K,
+ACM,Acetamide,A,9014907,ACM_COD9014907.cif,good,,,R 3 c :H,R3c,,,C2 H5 N O,1980,10.1107/S0567740880008606,"23 K neutron, R3c matches Prager",9007523 (room T)
+PARA,Paracetamol,B,2104364,PARA_COD2104364.cif,good,100,,P 1 21/n 1,P21/a,0.018,MoKα,C8 H9 N O2,2009,10.1107/S0108768109008271,100 K form I (P21/n = Prager P21/a),2007205 (150 K)
+MMAM,Methylmalonamide (formula printed as acetoacetamide),,2011375,MMAM_COD2011375.cif,caveat,296.2,,P n m a,,0.0404,MoKα,C4 H8 N2 O2,2000,10.1107/S0108270100010866,"workbook flags identity (Check); this is methylmalonamide, 296 K",
+TOL-CALIX,Toluene in p-tert-butylcalix[4]arene (1:1),D,2103461,TOL-CALIX_COD2103461.cif,caveat,173,,P 1 2/c 1,,0.0513,MoKα,C51 H64 O4,2002,10.1107/S0108768102018803,173 K; toluene guest disordered,
+FT2,2-Fluorotoluene,A,4507556,FT2_COD4507556.cif,good,205,,P b c a,,0.0477,MoKα,C7 H7 F,2013,10.1021/cg301773h,"205 K, in situ crystallised, Pbca","4507555 (296 K, P21/n, likely high-P)"
+FT3,3-Fluorotoluene,A,4507558,FT3_COD4507558.cif,good,179,,P 1 21/n 1,,0.0489,MoKα,C7 H7 F,2013,10.1021/cg301773h,179 K,
+FT4,4-Fluorotoluene,A,4507560,FT4_COD4507560.cif,good,217,,P 1 21/n 1,,0.0474,MoKα,C7 H7 F,2013,10.1021/cg301773h,217 K,
+HMB,Hexamethylbenzene,D,2100190,HMB_COD2100190.cif,good,5,,P -1,,,monchromaticbeam,C12 D18,2005,10.1107/S0108768104034007,"C12D18, 5 K",
+TCM,Trichloromesitylene,A,7117264,TCM_COD7117264.cif,good,118.2,,P -1,triclinic,0.0346,MoKα,C9 H9 Cl3,2015,10.1039/C5cc03033A,118 K,"2101374 (1995, 150/297 K)"
+TBM,Tribromomesitylene,A,7117259,TBM_COD7117259.cif,good,118,,P -1,triclinic,0.0369,MoKα,C9 H9 Br3,2015,10.1039/C5cc03033A,118 K,
+TIM,Triiodomesitylene,B,7117269,TIM_COD7117269.cif,good,118,,P -1,triclinic,0.0301,MoKα,C9 H9 I3,2015,10.1039/C5cc03033A,118 K,2012171 (293 K)
+DBTMB,"1,3-Dibromo-2,4,6-trimethylbenzene",B,2013419,DBTMB_COD2013419.cif,caveat,14,,P 1 21/n 1,monoclinic,0.0261,Neutron,C9 H10 Br2,2003,10.1107/S0108270103012666,14 K neutron; methyl H disordered,2013420 (120 K)
+MPY3,3-Methylpyridine (beta-picoline),A,2200598,MPY3_COD2200598.cif,good,120,,P n a 21,,0.0398,MoKα,C6 H7 N,2001,10.1107/S1600536801017536,120 K,
+LUT35,"3,5-Lutidine",B,2200844,LUT35_COD2200844.cif,good,150,,I 1 2/a 1,,0.0688,MoKα,C7 H9 N,2002,10.1107/S1600536801020426,150 K,
+LUT26,"2,6-Lutidine",D,2200702,LUT26_COD2200702.cif,good,120,,F d d 2,,0.0567,MoKα,C7 H9 N,2001,10.1107/S1600536801019869,120 K,
+MPZ4,4-Methylpyrazole,C,7051396,MPZ4_COD7051396.cif,good,100,,P c a 21,,0.0364,,C4 H6 N2,1999,10.1039/a808186g,100 K,
+MFU2,2-Methylfuran,C,7232754,MFU2_COD7232754.cif,good,100,,P 42 b c,,0.0207,CuKα,C5 H6 O,2019,10.1039/C9CE00435A,100 K,
+DMPZ25,"2,5-Dimethylpyrazine",C,7051298,DMPZ25_COD7051298.cif,good,183,,P 1 21/n 1,,,,C6 H8 N2,2000,10.1039/b001843k,183 K,
+TMPB,Tetramethyllead,A,2202247,TMPB_COD2202247.cif,good,150,,P a -3,Pa-3,0.033,MoKα,C4 H12 Pb,2003,10.1107/S1600536802022201,"150 K, Pa-3 matches Prager",
+TMSI,Tetramethylsilane,C,2104690,TMSI_COD2104690.cif,caveat,100,,P n m a,,0.1229,MoKα,C4 H12 Si,2010,10.1107/S0108768110003423,"100 K, Pnma, R = 0.12; partially occupied sites","4503063 (Pa-3, 293 K)"
+TMSNF,Trimethyltin fluoride,A,7036132,TMSNF_COD7036132.cif,caveat,153,,C m c m,Pnma,0.0206,MoKα,C3 H9 F Sn,2015,10.1039/c5dt01994j,153 K Cmcm; Prager lists Pnma (= 296 K entry); methyl H disordered,"7036131 (296 K, Pnma)"
+TMBI,Trimethylbismuthine,B,4081633,TMBI_COD4081633.cif,good,150,,P -1,,0.0657,MoKα,C3 H9 Bi,2013,10.1021/om400730r,150 K,
